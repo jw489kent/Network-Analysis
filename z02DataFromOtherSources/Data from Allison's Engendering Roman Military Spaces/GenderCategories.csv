@@ -1,0 +1,9 @@
+Gender category,Gender,Gender code
+Male,male,MA
+Possibly male,male?,ZMA
+Possibly male or female,male?/female?,ZMA_FE
+Female,female,FE
+Possibly female,female?,ZFE
+Possibly female or children,female?/children?,ZFE_CH
+Children,child,CH
+Possibly children,child?,CH?

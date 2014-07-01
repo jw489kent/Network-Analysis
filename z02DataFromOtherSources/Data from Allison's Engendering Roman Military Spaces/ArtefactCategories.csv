@@ -1,0 +1,53 @@
+Artefact Category,act_cat
+agricultural,A
+cloth-working,C
+cloth-working?,ZC
+cloth-working?/toilet?,ZC_T
+cloth-working?/weighing and measuring?,ZC_WM
+combat equipment,E
+combat equipment?,ZE
+combat equipment?/furniture?,ZE_F
+cutting and sharpening,CS
+cutting and sharpening?,ZCS
+cutting and sharpening?/tableware?/toilet?,ZCS_TS_T
+dress,D
+dress?,ZD
+dress?/cloth-working?,ZD_C
+dress?/cloth-working?/furniture?/gaming? ,ZD_C_F_G
+dress?/cloth-working?/toilet?,ZD_C_T
+dress?/cloth-working?/writing?,ZD_C_W
+dress?/combat equipment?,ZD_E
+dress-combat equipment?/furniture?,ZD_E_F
+dress?/combat equipment?/horse equipment?,ZD_E_H
+dress?/horse equipment?,ZD_H
+dress?/miscellaneous fittings?,ZD_MF
+dress?/music?,ZD_Mu
+dress-combat equipment,DE
+dress-combat equipment?,ZDE
+dress-combat equipment?/furniture?,ZDE_F
+food?/miscellaneous?/gaming?,ZFo_M_G
+food-preparation?/toilet?,ZFP_T
+gaming,G
+gaming?/miscellaneous?,ZG_M
+glassworking?,ZGL
+horse equipment,H
+horse equipment?,ZH
+horse equipment?/music/religion?,ZH_Mu_R
+human remains,Sk
+miscellaneous equipment,MQ
+religion?/tableware and serving?,ZR_ZTS
+stone and metalworking,SM
+stone- and metal-working?,ZSM
+tableware and serving,TS
+tableware and serving?/toilet?,ZTS_T
+tableware and serving?/toilet?- drinking?,ZTS_TD
+toilet,T
+toilet?,ZT
+toilet?/writing?,ZT_W
+weighing and measuring,WM
+weighing and measuring?,ZWM
+wood and leatherworking,WL
+wood- and leather-working?,ZWL
+wood- and leather-working?/writing?,ZWL_W
+writing,W
+writing?,ZW

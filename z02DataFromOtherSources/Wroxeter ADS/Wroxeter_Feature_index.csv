@@ -1,0 +1,3250 @@
+Feature no,Box no,Layer no,Description,Feature files
+1,83,8,"Feature sheet missing","B2.1"
+2,"83/84","9/13","Feature sheet missing","B2.1"
+3,85,1,"Feature sheet missing","B2.1"
+4,85,2,"Feature sheet missing","B2.1"
+5,85,3,"Feature sheet missing","B2.1"
+6,85,4,"Feature sheet missing","B2.1"
+7,85,5,"Feature sheet missing","B2.1"
+8,83,10,"Feature sheet missing","B2.1"
+9,49,152,"Feature sheet missing","B2.1"
+10,49,156,"Feature sheet missing","B2.1"
+11,49,"157-9","Feature sheet missing","B2.1"
+12,80,44,"Feature sheet missing","B2.1"
+13,86,2,"Feature sheet missing","B2.1"
+14,87,0,"Feature sheet missing","B2.1"
+15,87,0,"Feature sheet missing","B2.1"
+16,87,0,"Feature sheet missing","B2.1"
+17,87,0,"Feature sheet missing","B2.1"
+18,87,0,"Feature sheet missing","B2.1"
+19,86,3,"Feature sheet missing","B2.1"
+20,85,0,"Wall","B2.1"
+21,85,0,"Feature sheet missing","B2.1"
+22,85,0,"Wall","B2.1"
+23,"85I",0,"Feature sheet missing","B2.1"
+24,"85III",0,"W Wall","B2.1"
+25,"85III",0,"W Wall","B2.1"
+26,86,1,"Feature sheet missing","B2.1"
+27,86,6,"N Wall","B2.1"
+28,86,83,"E Wall","B2.1"
+29,86,7,"Wall","B2.1"
+30,87,5,"Feature sheet missing","B2.1"
+31,87,5,"Feature sheet missing","B2.1"
+32,87,0,"Feature sheet missing","B2.1"
+33,85,"108?","Posthole","B2.1"
+34,85,"109?","Posthole","B2.1"
+35,84,23,"Feature sheet missing","B2.1"
+36,84,22,"Feature sheet missing","B2.1"
+37,87,0,"Feature sheet missing","B2.1"
+38,84,15,"Feature sheet missing","B2.1"
+39,84,24,"Feature sheet missing","B2.1"
+40,84,16,"Feature sheet missing","B2.1"
+41,84,25,"Feature sheet missing","B2.1"
+42,84,17,"Feature sheet missing","B2.1"
+43,84,20,"Feature sheet missing","B2.1"
+44,84,21,"Feature sheet missing","B2.1"
+45,84,18,"Feature sheet missing","B2.1"
+46,84,19,"Feature sheet missing","B2.1"
+47,84,14,"Feature sheet missing","B2.1"
+48,80,53,"Feature sheet missing","B2.1"
+49,84,34,"Feature sheet missing","B2.1"
+50,84,0,"Feature sheet missing","B2.1"
+51,84,35,"Feature sheet missing","B2.1"
+52,91,0,"Feature sheet missing","B2.1"
+53,"85i",0,"Feature sheet missing; feature abandoned","B2.1"
+54,91,1,"Feature sheet missing","B2.1"
+55,91,2,"Feature sheet missing","B2.1"
+56,84,0,"Levelling / trench","B2.1"
+57,84,0,"Feature sheet missing","B2.1"
+58,87,17,"Feature sheet missing","B2.1"
+59,"85i",0,"Feature sheet missing","B2.1"
+60,"85ii",0,"Feature sheet missing","B2.1"
+61,83,0,"Feature sheet missing","B2.1"
+62,83,0,"Feature sheet missing","B2.1"
+63,83,21,"Feature sheet missing","B2.1"
+64,83,22,"Feature sheet missing","B2.1"
+65,87,0,"Feature sheet missing","B2.1"
+66,"85iii",0,"Construction trench","B2.1"
+67,86,"21, 25","Robber trench","B2.1"
+68,"85i",0,"East Wall","B2.1"
+69,"85i",0,"South Wall","B2.1"
+70,"85i",0,"West wall","B2.1"
+71,"85i",0,"North wall","B2.1"
+72,85,"111?","Stakehole","B2.1"
+73,85,110,"Posthole","B2.1"
+74,85,107,"Posthole","B2.1"
+75,"85iii",49,"Posthole","B2.1"
+76,"85iii",0,"pit","B2.1"
+77,84,38,"Floor","B2.1"
+78,84,39,"Floor","B2.1"
+79,84,40,"Floor","B2.1"
+80,"85iii",0,"? Drainage trench","B2.1"
+81,86,"8&9","Herring bone tile floor","B2.1"
+82,85,0,"Posthole ?","B2.1"
+83,84,14,"Feature sheet missing","B2.1"
+84,84,41,"Floor","B2.1"
+85,84,64,"Pit?","B2.1"
+86,87,0,"Pit small","B2.1"
+87,91,11,,"B2.1"
+88,"87i",20,"Pit","B2.1"
+89,97,0,"C19 trench","B2.1"
+90,90,0,"Feature abandoned","B2.1"
+91,90,0,"Robber Trench","B2.1"
+92,"97i",0,"Stakehole","B2.1"
+93,"87i",0,,"B2.1"
+94,"87i",0,"Construction trench","B2.1"
+95,"87i","49-51","Clay wall","B2.1"
+96,91,"19, 20","Floor?","B2.1"
+97,"85iii","44,45,54",,"B2.1"
+98,92,10,"Construction trench","B2.1"
+99,92,0,"Construction trench","B2.1"
+100,92,0,"Post pit","B2.1"
+101,91,8,,"B2.1"
+102,91,0,"Stakehole (3)","B2.1"
+103,86,33,"Posthole","B2.1"
+104,"85i",0,"Trench","B2.1"
+105,92,0,"Posthole","B2.1"
+106,90,0,"Posthole","B2.1"
+107,90,0,"Posthole","B2.1"
+108,90,0,"Posthole","B2.1"
+109,90,0,"Posthole","B2.1"
+110,90,0,"Posthole","B2.1"
+111,90,0,"Abandoned as worm action","B2.1"
+112,90,0,"See F133","B2.1"
+113,90,0,"Posthole","B2.1"
+114,90,0,"Posthole","B2.1"
+115,97,0,"Stakehole(s)","B2.1"
+116,97,0,"Abandoned as worm action","B2.1"
+117,90,0,"Postholes (2)","B2.1"
+118,"85i",0,,"B2.1"
+119,87,0,,"B2.1"
+120,86,36,"Construction trench for E-W drain","B2.1"
+121,85,65,"Feature sheet missing","B2.1"
+122,85,65,"Feature sheet missing","B2.1"
+123,"85iii",0,,"B2.1"
+124,91,0,,"B2.1"
+125,"85ii",0,"Construction trench","B2.1"
+126,92,0,"Posthole","B2.1"
+127,87,0,"Trench","B2.1"
+128,87,0,"Construction trench","B2.1"
+129,87,0,"Posthole","B2.1"
+130,92,0,"modern signpost hole","B2.1"
+131,"92?",0,,"B2.1"
+132,86,0,"Mortar bedding for N-S drain","B2.1"
+133,92,0,"C19th excavation trench","B2.1"
+134,86,41,"? Part of construction trench for drain","B2.1"
+135,"85ii",0,"Stakehole","B2.1"
+136,"85ii",0,"Stakehole","B2.1"
+137,"85ii",0,"Stakehole","B2.1"
+138,"85ii",0,"Stakehole","B2.1"
+139,"85ii",0,"Stakehole","B2.1"
+140,"85ii",0,"Stakehole","B2.1"
+141,"85ii",0,"Stakehole","B2.1"
+142,"85ii",0,"Stakehole","B2.1"
+143,"85ii",0,"Slot","B2.1"
+144,87,0,"Beam slot (rampart)","B2.1"
+145,87,0,"Beam slot (rampart)","B2.1"
+146,"85ii",0,"Stakehole","B2.1"
+147,"85ii",0,"Stakehole","B2.1"
+148,"85ii",0,"Stakehole","B2.1"
+149,92,0,"Posthole","B2.1"
+150,92,0,"Posthole","B2.1"
+151,92,0,"Posthole","B2.1"
+152,92,0,"Posthole","B2.1"
+153,92,21,"Pebble surface","B2.1"
+154,92,0,"Pit","B2.1"
+155,92,0,"Pit","B2.1"
+156,92,0,"Posthole","B2.1"
+157,91,0,"Posthole","B2.1"
+158,"85iii",0,"Posthole","B2.1"
+159,91,0,"Posthole","B2.1"
+160,91,0,"Posthole","B2.1"
+161,92,0,"Posthole","B2.1"
+162,92,0,"Slot","B2.1"
+163,92,0,"Slot","B2.1"
+164,92,0,"Slot","B2.1"
+165,92,0,"Post pit","B2.1"
+166,86,0,"same as F120","B2.1"
+167,92,36,"Feature sheet missing","B2.1"
+168,86,46,"Construction trench for F29 well","B2.1"
+169,"88ii",7,"? Ministry trench","B2.1"
+170,"85i",0,"Pit","B2.1"
+171,"88iii",7,"Not a feature","B2.1"
+172,"88iii","9,16,17","Bedding trench","B2.1"
+173,"85i",0,"Rampart","B2.1"
+174,92,0,"Slot","B2.1"
+175,"88iii",10,"Bedding trench","B2.1"
+176,"85i",0,"Timbers for Rampart","B2.1"
+177,93,0,"Pit","B2.1"
+178,87,0,"Rampart","B2.1"
+179,87,0,"Construction trench / Rampart timbers","B2.1"
+180,87,0,"Construction trench / Rampart timbers","B2.1"
+181,87,0,"Construction trench / Rampart timbers","B2.1"
+182,86,"47-48","Posthole","B2.1"
+183,95,"21, 38, 39",,"B2.1"
+184,95,"22-25","Slot? + 2 postholes","B2.1"
+185,95,26,,"B2.1"
+186,95,"27-9","Slot? + 2 square postholes","B2.1"
+187,95,30,"not a feature","B2.1"
+188,95,"31,36",,"B2.1"
+189,95,32,"Wall","B2.1"
+190,95,33,"Posthole","B2.1"
+191,95,35,"pit?","B2.1"
+192,95,"37, 41-2","pit","B2.1"
+193,"88iii",11,"sub-square pit","B2.1"
+194,"88iii","12,15","sub-square pit","B2.1"
+195,"85ii","?233","slot and postholes F135-F142","B2.1"
+196,"88i",10,"Number defunct","B2.1"
+197,"88i",11,"Depression / Post hole","B2.1"
+198,"88i","13,18","Irregular pit","B2.1"
+199,"88i",14,"Ovoid pit / post hole","B2.1"
+200,"88i",15,"Sub rectangular pit","B2.1"
+201,"88i",16,"Depression","B2.1"
+202,"88i",17,"Lump of clay","B2.1"
+203,84,64,"Pit","B2.1"
+204,86,51,"Pit","B2.1"
+205,86,"60-63","Pit","B2.1"
+206,92,"55,56","Pit","B2.1"
+207,86,50,"? Post hole pit","B2.1"
+208,"88iii",13,"Posthole","B2.1"
+209,86,"52-5, 64","Construction trench from N-S drain","B2.1"
+210,"88ii","10,14,16","Trench/Slot","B2.1"
+211,"88iii",14,"Foundation Trench","B2.1"
+212,"88ii",11,"Not definable","B2.1"
+213,"85ii",234,"pit","B2.1"
+214,"85i",153,"Oven / burnt clay","B2.1"
+215,49,"172-5","Linear slot = F3240","B2.1"
+216,49,176,"Construction trench = F3236","B2.1"
+217,49,177,"Construction trench = F3238","B2.1"
+218,"88i",7,"Stakehole","B2.1"
+219,"88i","10,19","? Ditch","B2.1"
+220,84,69,"Hearth","B2.1"
+221,"88i",0,"=F244","B2.1"
+222,86,"(5)","? Pit","B2.1"
+223,"88i",27,"Stakehole","B2.1"
+224,"88i",6,"Stakehole","B2.1"
+225,"88iii",18,"Pit","B2.1"
+226,"88iii",0,"Number abandoned = renumbered F172","B2.1"
+227,86,59,"Pit","B2.1"
+228,"88i",30,"Stakehole","B2.1"
+229,"92r",0,,"B2.1"
+230,"92v",0,,"B2.1"
+231,"88ii",17,"? Slot","B2.1"
+232,"88iii",22,"Posthole","B2.1"
+233,84,"?","Wall","B2.1"
+234,84,"?","Posthole","B2.1"
+235,84,"?","Beam slot","B2.1"
+236,"85ii",0,,"B2.1"
+237,"88iii",19,"Posthole","B2.1"
+238,83,0,,"B2.1"
+239,"85i",0,,"B2.1"
+240,92,0,,"B2.1"
+241,"88iii",21,"Posthole","B2.1"
+242,83,0,,"B2.1"
+243,83,0,,"B2.1"
+244,"88i",0,,"B2.1"
+245,92,0,,"B2.1"
+246,83,0,,"B2.1"
+247,"85i",0,,"B2.1"
+248,86,85,"Clay sill for wall","B2.1"
+249,92,,,"B2.1"
+250,"85ii",,,"B2.1"
+251,"88i",,"Feature sheet missing","B2.1"
+252,92,,,"B2.1"
+253,92,61,"Feature sheet missing","B2.1"
+254,"88iii",23,"Feature sheet missing","B2.1"
+255,92,,,"B2.1"
+256,92,,,"B2.1"
+257,86,67,"Bedding trench","B2.1"
+258,86,66,"Inter-vallum road","B2.1"
+259,86,68,"Posthole","B2.1"
+260,92,,,"B2.1"
+261,84,81,"Unused construction trench","B2.1"
+262,84,"?","Stone wall","B2.1"
+263,84,"?","Wall = F278","B2.1"
+264,92,,,"B2.1"
+265,92,,,"B2.1"
+266,92,,,"B2.1"
+267,92,,,"B2.1"
+268,92,,,"B2.1"
+269,92,,,"B2.1"
+270,"85ii",246,"Feature sheet missing","B2.1"
+271,84,,,"B2.1"
+272,84,,,"B2.1"
+273,84,,,"B2.1"
+274,"85ii",249,"Feature sheet missing","B2.1"
+275,83,,,"B2.1"
+276,84,,,"B2.1"
+277,84,,,"B2.1"
+278,84,79,"Feature sheet missing = F263","B2.1"
+279,84,,"Feature sheet missing","B2.1"
+280,92,,,"B2.1"
+2350,41,9,"Stakehole","B2.7"
+2351,41,10,"Stakehole","B2.7"
+2352,41,11,"Stakehole/posthole","B2.7"
+2353,41,12,"Stakehole/posthole","B2.7"
+2354,41,"13a","Beam slot W/E","B2.7"
+2355,41,14,"?slot?","B2.7"
+2356,41,15,"Post/stake hole","B2.7"
+2357,41,33,"?posthole","B2.7"
+2358,41,17,"?Beam slot","B2.7"
+2359,41,"18,19","Large pit","B2.7"
+2360,41,20,"small pit","B2.7"
+2361,41,22,"beam slot","B2.7"
+2362,41,24,"beam slot","B2.7"
+2363,41,31,"Pit (very bottom of)","B2.7"
+2364,41,32,"? Posthole","B2.7"
+2365,41,35,"posthole","B2.7"
+2366,41,36,"Beam slot N/S","B2.7"
+2367,41,37,"Beam slot N/S","B2.7"
+2368,41,38,"? Pit?","B2.7"
+2369,41,"39a","Beam slot W/E","B2.7"
+2370,41,40,"Posthole","B2.7"
+2371,41,"39b","Beam slot W/E","B2.7"
+2372,41,41,"posthole","B2.7"
+2373,41,42,"Beam slot N/S","B2.7"
+2374,41,43,"posthole","B2.7"
+2375,41,44,"posthole","B2.7"
+2376,41,"25a,16","Beam slot?","B2.7"
+2377,42,"+C","C19th excavation trench","B2.7"
+2378,42,"7,9","pit","B2.7"
+2379,42,10,"pit","B2.7"
+2380,52,8,"posthole/pit","B2.7"
+2381,53,"+A","Robber trench","B2.7"
+2382,53,8,"Small channel / gully","B2.7"
+2383,53,13,"Beam slot N/S","B2.7"
+2384,53,16,"Pit/posthole","B2.7"
+2385,53,18,"Stakehole","B2.7"
+2386,53,19,"Stakehole","B2.7"
+2387,53,20,"Stakehole","B2.7"
+2388,53,21,"Stakehole","B2.7"
+2389,53,22,"Stakehole","B2.7"
+2390,53,23,"Stakehole","B2.7"
+2391,53,24,"Stakehole","B2.7"
+2392,53,25,"Post/Stakehole","B2.7"
+2393,52,10,"Stakehole","B2.7"
+2394,52,11,"Posthole","B2.7"
+2395,52,7,"Pit","B2.7"
+2396,52,16,"Pit","B2.7"
+2397,52,18,"Pit","B2.7"
+2398,52,19,"Pit","B2.7"
+2399,52,20,"Pit","B2.7"
+2400,52,23,"Posthole","B2.7"
+2401,52,24,"Posthole","B2.7"
+2402,52,25,"Pit","B2.7"
+2403,52,26,"Pit","B2.7"
+2404,52,28,"Posthole","B2.7"
+2405,52,29,"Posthole","B2.7"
+2406,52,30,"Posthole","B2.7"
+2407,52,31,"Posthole","B2.7"
+2408,52,21,"Slot N/S","B2.7"
+2409,52,32,"Gully W/E","B2.7"
+2410,52,38,"Butt end of ditch/pit ?","B2.7"
+2411,52,40,"Pit","B2.7"
+2412,52,42,"Beam slot","B2.7"
+2413,52,43,"Posthole","B2.7"
+2414,52,44,"Pit","B2.7"
+2415,52,45,"Stakehole","B2.7"
+2416,52,46,"? Slot","B2.7"
+2417,52,47,"? Slot","B2.7"
+2418,52,48,"Stakehole","B2.7"
+2419,52,49,"Stakehole","B2.7"
+2420,52,50,"Stakehole","B2.7"
+2421,52,51,"Stakehole","B2.7"
+2422,52,52,"Stakehole","B2.7"
+2423,52,53,"Stakehole","B2.7"
+2424,52,54,"Stakehole","B2.7"
+2425,52,55,"Stakehole","B2.7"
+2426,52,56,"Stakehole","B2.7"
+2427,52,57,"Stakehole","B2.7"
+2428,52,58,"Stakehole","B2.7"
+2429,52,59,"Stakehole","B2.7"
+2430,52,60,"Stakehole","B2.7"
+2431,52,61,"Stakehole","B2.7"
+2432,52,62,"Stakehole","B2.7"
+2433,52,63,"Stakehole","B2.7"
+2434,52,64,"Stakehole","B2.7"
+2435,52,65,"Stakehole","B2.7"
+2436,52,66,"Stakehole","B2.7"
+2437,52,67,"Stakehole","B2.7"
+2438,52,68,"Stakehole","B2.7"
+2439,52,69,"Stakehole","B2.7"
+2440,52,70,"Stakehole","B2.7"
+2441,52,71,"Stakehole","B2.7"
+2442,52,72,"Stakehole","B2.7"
+2443,52,73,"Stakehole","B2.7"
+2444,52,74,"Stakehole","B2.7"
+2445,52,75,"Stakehole","B2.7"
+2446,52,76,"Stakehole","B2.7"
+2447,52,77,"Stakehole","B2.7"
+2448,52,78,"Stakehole","B2.7"
+2449,52,79,"Stakehole","B2.7"
+2450,52,80,"Stakehole","B2.7"
+2451,52,81,"Stakehole","B2.7"
+2452,52,82,"Stakehole","B2.7"
+2453,52,83,"Stakehole","B2.7"
+2454,52,84,"Stakehole","B2.7"
+2455,52,85,"Stakehole","B2.7"
+2456,52,86,"Stakehole","B2.7"
+2457,52,87,"Stakehole","B2.7"
+2458,52,88,"Stakehole","B2.7"
+2459,52,89,"Stakehole","B2.7"
+2460,52,90,"Stakehole","B2.7"
+2461,52,91,"Stakehole","B2.7"
+2462,52,92,"Stakehole","B2.7"
+2463,52,93,"Stakehole","B2.7"
+2464,52,94,"Stakehole","B2.7"
+2465,52,95,"Stakehole","B2.7"
+2466,52,96,"Stakehole","B2.7"
+2467,52,97,"Stakehole","B2.7"
+2468,52,98,"Stakehole","B2.7"
+2469,52,99,"Stakehole","B2.7"
+2470,42,11,"Pit","B2.7"
+2471,42,15,"Posthole","B2.7"
+2472,42,16,"Posthole","B2.7"
+2473,42,17,"Posthole","B2.7"
+2474,42,18,"Posthole","B2.7"
+2475,42,19,"Posthole","B2.7"
+2476,42,20,"Posthole","B2.7"
+2477,42,21,"Posthole","B2.7"
+2478,46,8,"Pit","B2.7"
+2479,46,9,"Beam slot E/W","B2.7"
+2480,46,10,"Beam slot N/S","B2.7"
+2481,46,11,"Posthole","B2.7"
+2482,46,12,"Pit","B2.7"
+2483,46,"+b","?Robber trench? N/S","B2.7"
+2484,47,20,"Robber trench N/S","B2.7"
+2485,47,"+a","Modern pit (?)","B2.7"
+2486,50,,"Robber trench","B2.7"
+2487,50,,"Robber Trench","B2.7"
+2488,50,"15, 24","Pit","B2.7"
+2489,50,16,"Posthole","B2.7"
+2490,50,17,"Pit","B2.7"
+2491,50,18,"Stakehole","B2.7"
+2492,50,19,"Stakehole","B2.7"
+2493,50,21,"Stakehole","B2.7"
+2494,50,22,"Stakehole","B2.7"
+2495,50,20,"Stakehole","B2.7"
+2496,50,23,"Beam slot","B2.7"
+2497,50,25,"Robber trench","B2.7"
+2498,50,27,"Old Excavator's Trench","B2.7"
+2499,50,36,"Posthole","B2.7"
+2500,50,"37, 38","Beam slot","B2.7"
+2501,50,39,"Ditch/gully","B2.7"
+2502,50,40,"Pit","B2.7"
+2503,50,42,"Stakehole","B2.7"
+2504,50,44,"Posthole","B2.7"
+2505,50,45,"Stakehole","B2.7"
+2506,50,46,"Stakehole","B2.7"
+2507,50,47,"Posthole","B2.7"
+2508,50,49,"Posthole","B2.7"
+2509,50,50,"Posthole","B2.7"
+2510,50,51,"Posthole","B2.7"
+2511,50,52,"Trench / beam slot","B2.7"
+2512,50,53,"Posthole","B2.7"
+2513,50,55,"Pit","B2.7"
+2514,50,"56, 62","Slot","B2.7"
+2515,50,57,"Posthole","B2.7"
+2516,50,58,"Slot","B2.7"
+2517,50,60,"Stakehole","B2.7"
+2518,50,61,"Stakehole","B2.7"
+2519,50,63,"Large ditch","B2.7"
+2520,50,64,"Pit","B2.7"
+2521,50,65,"Stakehole","B2.7"
+2522,50,66,"Stakehole","B2.7"
+2523,50,67,"Pit","B2.7"
+2524,50,68,"Pit","B2.7"
+2525,50,69,"Stakehole","B2.7"
+2526,50,71,"Robber or excavator's trench","B2.7"
+2527,50,74,"Posthole","B2.7"
+2528,50,75,"Posthole","B2.7"
+2529,50,81,"Posthole","B2.7"
+2530,50,82,"Trench","B2.7"
+2531,50,"198, 83, 109","Pit","B2.7"
+2532,50,84,"Pit","B2.7"
+2533,50,85,"Stakehole","B2.7"
+2534,50,87,"Slot","B2.7"
+2535,50,88,"Stakehole","B2.7"
+2536,50,89,"Stakehole","B2.7"
+2537,50,90,"Stakehole","B2.7"
+2538,50,91,"Stakehole","B2.7"
+2539,50,92,"Slot","B2.7"
+2540,50,93,"Slot","B2.7"
+2541,50,95,"Slot","B2.7"
+2542,50,98,"Posthole","B2.7"
+2543,50,99,"Stakehole","B2.7"
+2544,50,103,"Pit","B2.7"
+2545,50,105,"?Robber trench?","B2.7"
+2546,50,106,"Stakehole","B2.7"
+2547,50,107,"Stakehole","B2.7"
+2548,50,111,"? Slot","B2.7"
+2549,50,112,"Pit","B2.7"
+2550,50,113,"Posthole","B2.7"
+2551,50,114,"Stakehole","B2.7"
+2552,50,115,"Stakehole","B2.7"
+2553,50,116,"Stakehole","B2.7"
+2554,50,117,"Posthole","B2.7"
+2555,50,118,"Posthole","B2.7"
+2556,50,119,"Posthole","B2.7"
+2557,50,120,"Slot","B2.7"
+2558,50,86,"Posthole","B2.7"
+2559,"76/77","2/7","Pit","B2.7"
+2560,"76/77","3/11","Pit","B2.7"
+2561,"76/77","4/12","Ditch","B2.7"
+2562,"76/77","5/13","Slot","B2.7"
+2563,"76/77","7/15","Piscina wall foundation (south end)","B2.7"
+2564,"76/77","9a/17a","Slot","B2.7"
+2565,"76/77","9b/17b","Slot","B2.7"
+2566,"76/77","37/21","Slot","B2.7"
+2567,"76/77","12/22","Posthole","B2.7"
+2568,"76/77","13/23","Posthole","B2.7"
+2569,"76/77","14/24","Posthole","B2.7"
+2570,"76/77","15/25","Posthole","B2.7"
+2571,"76/77","16/26","Posthole","B2.7"
+2572,"76/77","17/27","Posthole","B2.7"
+2573,"76/77","18/28","Posthole","B2.7"
+2574,"76/77","19/29","Posthole","B2.7"
+2575,"76/77","20/30","Posthole","B2.7"
+2576,"76/77","21/31","Posthole","B2.7"
+2577,"76/77","22/32","Posthole","B2.7"
+2578,"76/77","23/33","Posthole","B2.7"
+2579,"76/77","24/34","Posthole","B2.7"
+2580,"76/77","25/35","Posthole","B2.7"
+2581,"76/77","26/36","Posthole","B2.7"
+2582,"76/77","27/37","Posthole","B2.7"
+2583,"76/77","28/38","Posthole","B2.7"
+2584,"76/77","29/39","Posthole","B2.7"
+2585,"76/77","30/40","Posthole","B2.7"
+2586,"76/77","31/41","Posthole","B2.7"
+2587,"76/77","32/42","Posthole","B2.7"
+2588,"76/77","33/43","Posthole","B2.7"
+2589,"76/77","34/44","Posthole","B2.7"
+2590,"76/77","35/45","Posthole","B2.7"
+2591,"76/77","36/20","Posthole","B2.7"
+2592,77,3,"Wall construction","B2.7"
+2593,77,,"Wall (South wall) W/E","B2.7"
+2594,77,,"Robber trench (of piscina drain)","B2.7"
+2595,77,"8a","Stake/post hole","B2.7"
+2596,77,"8b","Stake/post hole","B2.7"
+2597,77,"8c","Stake/post hole","B2.7"
+2598,77,9,"Pit","B2.7"
+2599,77,10,"Pit/posthole","B2.7"
+2600,77,46,"? Slot","B2.7"
+2601,77,47,"?Posthole","B2.7"
+2602,77,66,"? Possible slot N/S","B2.7"
+2603,77,48,"Posthole","B2.7"
+2604,77,49,"Posthole","B2.7"
+2605,77,50,"Pit","B2.7"
+2606,77,52,"?Pit","B2.7"
+2607,77,51,"Pit/posthole","B2.7"
+2608,77,69,"Pit","B2.7"
+2609,77,68,"Posthole","B2.7"
+2610,77,67,"Posthole","B2.7"
+2611,77,62,"Posthole","B2.7"
+2612,77,58,"Posthole","B2.7"
+2613,"76/77","10/18 60","Slot  E/W","B2.7"
+2614,77,61,"Posthole","B2.7"
+2615,77,70,"? Posthole","B2.7"
+2616,77,71,"? Posthole","B2.7"
+2617,77,72,"? Slot E/W","B2.7"
+2618,75,1,"Construction Trench (for Wall) E/W","B2.7"
+2619,75,"4,10","Construction Trench (for piscina apse)","B2.7"
+2620,75,7,"? Posthole","B2.7"
+2621,75,"12b","Slot","B2.7"
+2622,75,33,"Posthole","B2.7"
+2623,75,32,"Posthole","B2.7"
+2624,75,29,"Posthole","B2.7"
+2625,75,30,"Posthole","B2.8"
+2626,75,31,"Posthole","B2.8"
+2627,75,28,"Posthole","B2.8"
+2628,75,27,"? Slot","B2.8"
+2629,75,26,"Posthole","B2.8"
+2630,75,14,"? Slot","B2.8"
+2631,75,19,"Posthole","B2.8"
+2632,75,17,"Posthole","B2.8"
+2633,75,25,"Posthole","B2.8"
+2634,75,24,"Posthole","B2.8"
+2635,75,23,"Posthole","B2.8"
+2636,75,20,"Posthole","B2.8"
+2637,75,38,"Posthole","B2.8"
+2638,75,39,"Posthole","B2.8"
+2639,75,"38a","Stakehole","B2.8"
+2640,75,"38b","Stakehole","B2.8"
+2641,75,"38c","Stakehole","B2.8"
+2642,"74/73","1/26","Construction trench of S Boundary wall of piscina","B2.8"
+2643,74,4,"Trench - same as Layer 1 - 75. N/S","B2.8"
+2644,73,2,"Trench","B2.8"
+2645,73,3,"Trench","B2.8"
+2646,73,4,"Stakehole","B2.8"
+2647,73,5,"Trench","B2.8"
+2648,73,7,"Trench","B2.8"
+2649,73,8,"Trench","B2.8"
+2650,73,9,"? Pit","B2.8"
+2651,73,10,"Stakehole","B2.8"
+2652,73,11,"Posthole","B2.8"
+2653,73,12,"? Slot","B2.8"
+2654,73,13,"? Pit","B2.8"
+2655,73,14,"Posthole","B2.8"
+2656,73,16,"Trench W/E","B2.8"
+2657,73,18,"Posthole","B2.8"
+2658,73,19,"Posthole","B2.8"
+2659,73,20,"? Pit","B2.8"
+2660,73,21,"Pit","B2.8"
+2661,73,22,"Pit","B2.8"
+2662,"74/73","12/24.25,31,32,45","Large rounded pit","B2.8"
+2663,"74/73","8,9,11/27","Irregular-shaped pit","B2.8"
+2664,73,"28,54","Slot N/S","B2.8"
+2665,73,29,"? Pit","B2.8"
+2666,73,30,"pit / posthole","B2.8"
+2667,73,33,"Posthole","B2.8"
+2668,73,"34,71","Posthole","B2.8"
+2669,73,35,"Posthole","B2.8"
+2670,73,36,"Posthole","B2.8"
+2671,73,37,"Posthole","B2.8"
+2672,73,38,"Posthole","B2.8"
+2673,73,39,"Posthole","B2.8"
+2674,73,40,"Posthole","B2.8"
+2675,73,42,"Posthole","B2.8"
+2676,73,44,"Pit","B2.8"
+2677,73,46,"Slot N/S","B2.8"
+2678,73,47,"Stakehole","B2.8"
+2679,73,60,"Stakehole","B2.8"
+2680,73,61,"Stakehole","B2.8"
+2681,73,62,"Possibly posthole","B2.8"
+2682,73,73,"Posthole","B2.8"
+2683,73,74,"Posthole","B2.8"
+2684,73,75,"Posthole","B2.8"
+2685,73,70,"Posthole","B2.8"
+2686,73,51,"Posthole","B2.8"
+2687,73,72,"Posthole","B2.8"
+2688,73,76,"Posthole","B2.8"
+2689,73,64,"Possible posthole","B2.8"
+2690,73,65,"? Possible slot","B2.8"
+2691,"74/73","61, 7 / 63","Possible slot ? N/S","B2.8"
+2692,73,41,"? Pit","B2.8"
+2693,77,4,"mortar edge of piscina drain","B2.8"
+2694,77,,"Construction trench of piscina drain","B2.8"
+2695,77,"7a","? Post/stake hole","B2.8"
+2696,75,5,"Possible posthole","B2.8"
+2697,75,"1a","Trench/slot","B2.8"
+2698,50,7,"Pit","B2.8"
+2699,50,7,"Trench (small irregularity)","B2.8"
+2700,50,7,"Pit","B2.8"
+2701,50,1,"? Posthole/hole","B2.8"
+2702,50,,"Mortar foundation of piscina","B2.8"
+2703,50,41,"Pit","B2.8"
+2704,50,48,"Posthole","B2.8"
+2705,50,54,"? Posthole","B2.8"
+2706,50,77,"? Slot / pit?","B2.8"
+2707,50,80,"Trench","B2.8"
+2708,50,101,"Part of western side of piscina drain","B2.8"
+2709,50,76,"Trench E/W","B2.8"
+2710,70,"9, 11","Pit","B2.8"
+2711,70,12,"Posthole","B2.8"
+2712,70,"17, 19","Construction trench","B2.8"
+2713,70,18,"Trench","B2.8"
+2714,70,20,"Trench","B2.8"
+2715,70,21,"Trench","B2.8"
+2716,70,22,"? Pit","B2.8"
+2717,70,23,"? Pit","B2.8"
+2718,70,24,"Pit / posthole","B2.8"
+2719,70,25,"pit","B2.8"
+2720,70,26,"pit/post","B2.8"
+2721,70,27,"slot","B2.8"
+2722,70,29,"pit","B2.8"
+2723,70,31,"slot","B2.8"
+2724,70,33,"posthole","B2.8"
+2725,70,34,"slot","B2.8"
+2726,70,35,"posthole","B2.8"
+2727,70,36,"pit","B2.8"
+2728,70,37,"posthole","B2.8"
+2729,70,39,"posthole","B2.8"
+2730,70,40,"posthole","B2.8"
+2731,70,41,"? Posthole","B2.8"
+2732,70,43,"posthole","B2.8"
+2733,70,45,"posthole","B2.8"
+2734,70,46,"Slot/trench","B2.8"
+2735,70,48,"Slot","B2.8"
+2736,70,44,"?slot","B2.8"
+2737,70,49,"?pit","B2.8"
+2738,70,50,"? Posthole","B2.8"
+2739,70,52,"Stakehole","B2.8"
+2740,70,54,"Stakehole","B2.8"
+2741,70,55,"posthole","B2.8"
+2742,70,55,"posthole","B2.8"
+2743,70,56,"posthole","B2.8"
+2744,70,58,"Stakehole","B2.8"
+2745,70,59,"Stakehole","B2.8"
+2746,70,60,"Stakehole","B2.8"
+2747,70,61,"Stakehole","B2.8"
+2748,70,62,"Stakehole","B2.8"
+2749,70,63,"Stakehole","B2.8"
+2750,70,65,"Posthole","B2.8"
+2751,70,66,"Stakehole","B2.8"
+2752,70,67,"Posthole","B2.8"
+2753,70,68,"Pit","B2.8"
+2754,70,69,"Posthole/pit","B2.8"
+2755,70,70,"Posthole","B2.8"
+2756,70,72,"Pit","B2.8"
+2757,70,73,"Posthole","B2.8"
+2758,70,74,"Pit","B2.8"
+2759,70,75,"Pit","B2.8"
+2760,70,76,"Pit/Posthole","B2.8"
+2761,70,77,"Pit","B2.8"
+2762,70,78,"Slot","B2.8"
+2763,70,79,"Posthole","B2.8"
+2764,70,80,"Posthole","B2.8"
+2765,70,81,"Posthole","B2.8"
+2766,70,82,"? Pit","B2.8"
+2767,70,84,"Posthole","B2.8"
+2768,70,84,"Posthole","B2.8"
+2769,70,87,"Posthole","B2.8"
+2770,70,88,"Posthole","B2.8"
+2771,70,89,"Posthole","B2.8"
+2772,70,90,"Posthole","B2.8"
+2773,70,91,"Posthole","B2.8"
+2774,70,92,"Posthole","B2.8"
+2775,70,93,"slot","B2.8"
+2776,70,94,"Posthole","B2.8"
+2777,70,95,"Posthole","B2.8"
+2778,70,96,"pit","B2.8"
+2779,70,102,"Slot","B2.8"
+2780,70,97,"Posthole","B2.8"
+2781,70,98,"Posthole","B2.8"
+2782,70,99,"Posthole","B2.8"
+2783,70,100,"Posthole","B2.8"
+2784,70,101,"Posthole","B2.8"
+2785,70,103,"Posthole","B2.8"
+2786,70,104,"Stake/posthole","B2.8"
+2787,70,105,"Stake/posthole","B2.8"
+2788,70,108,"Posthole","B2.8"
+2789,70,109,"Posthole","B2.8"
+2790,70,110,"Posthole","B2.8"
+2791,70,111,"Posthole","B2.8"
+2792,70,112,"Stake/posthole","B2.8"
+2793,70,113,"Stakehole","B2.8"
+2794,70,114,"Stakehole","B2.8"
+2795,70,115,"Stakehole","B2.8"
+2796,70,116,"Stakehole","B2.8"
+2797,70,117,"Posthole","B2.8"
+2798,70,118,"Posthole","B2.8"
+2799,70,119,"Posthole","B2.8"
+2800,70,120,"Posthole","B2.8"
+2801,70,121,"Posthole","B2.8"
+2802,78,6,"Construction trench of S casement wall of Caldarium","B2.8"
+2803,78,7,"Construction Trench for west wall of Praefurnium","B2.8"
+2804,78,8,"Pit","B2.8"
+2805,78,"9, 49","Pit","B2.8"
+2806,78,10,"Pit","B2.8"
+2807,78,"11, 33, 57","Pit","B2.8"
+2808,78,"12, 32","Pit","B2.8"
+2809,78,"13, 55","Slot","B2.8"
+2810,78,14,"? Slot","B2.8"
+2811,78,15.53,"Pit","B2.8"
+2812,78,16,"Pit","B2.8"
+2813,78,18,"Posthole","B2.8"
+2814,78,19,"? Slot","B2.8"
+2815,78,20,"Pit","B2.8"
+2818,78,23,"Posthole","B2.8"
+2819,78,24,"Posthole","B2.8"
+2820,78,26,"Slot","B2.8"
+2821,78,27,"Posthole","B2.8"
+2822,78,29,"Stakehole","B2.8"
+2823,78,30,"Stakehole","B2.8"
+2824,78,31,"Stakehole","B2.8"
+2825,78,34,"Stakehole","B2.8"
+2826,78,35,"Stakehole","B2.8"
+2827,78,36,"Stakehole","B2.8"
+2828,78,37,"Stakehole","B2.8"
+2829,78,38,"Posthole","B2.8"
+2830,78,39,"Stakehole","B2.8"
+2831,78,40,"Posthole","B2.8"
+2832,78,41,"Stakehole","B2.8"
+2833,78,42,"Posthole","B2.8"
+2834,78,43,"Stakehole","B2.8"
+2835,78,44,"Stakehole","B2.8"
+2836,78,45,"Posthole","B2.8"
+2837,78,46,"Posthole","B2.8"
+2838,78,47,"Stakehole","B2.8"
+2839,78,48,"? Slot","B2.8"
+2840,78,50,"Stakehole","B2.8"
+2841,78,51,"Posthole","B2.8"
+2842,78,52,"Posthole","B2.8"
+2843,78,54,"Slot","B2.8"
+2844,78,56,"Pit","B2.8"
+2845,78,58,"Stakehole","B2.8"
+2846,78,59,"Stakehole","B2.8"
+2847,78,60,"Stakehole","B2.8"
+2848,78,61,"Stakehole","B2.8"
+2849,78,62,"Stakehole","B2.8"
+2850,78,63,"Posthole","B2.8"
+2851,78,64,"Stakehole","B2.8"
+2852,78,65,"Stakehole","B2.8"
+2853,78,66,"Stakehole","B2.8"
+2854,78,67,"Stakehole","B2.8"
+2855,78,68,"Stakehole","B2.8"
+2856,78,69,"Stakehole","B2.8"
+2857,72,3,"Posthole","B2.8"
+2858,72,7,"Slot","B2.8"
+2859,72,8,"Posthole","B2.8"
+2860,72,9,"Pit","B2.8"
+2861,72,12,"Posthole","B2.8"
+2862,72,13,"Posthole","B2.8"
+2863,72,14,"Pit","B2.8"
+2864,72,"15, 32","Slot","B2.8"
+2865,72,16,"Pit","B2.8"
+2866,72,17,"Pit","B2.8"
+2867,72,18,"Pit","B2.8"
+2868,72,19,"Pit","B2.8"
+2869,72,20,"Pit / Posthole","B2.8"
+2870,72,"21, 22","Pit","B2.8"
+2871,72,23,"Stakehole","B2.8"
+2872,72,24,"Pit","B2.8"
+2873,72,25,"Pit","B2.8"
+2874,72,26,"Posthole","B2.8"
+2875,72,27,"Stakehole","B2.8"
+2876,72,28,"Stakehole","B2.8"
+2877,72,30,"Slot [Same as F2918]","B2.8"
+2878,72,31,"Posthole","B2.8"
+2879,72,4,"Posthole","B2.8"
+2880,72,5,"Pit","B2.8"
+2881,72,6,"Pit","B2.8"
+2882,72,33,"Stakehole","B2.8"
+2883,72,34,"Pit","B2.8"
+2884,72,35,"Pit/posthole","B2.8"
+2885,72,36,"Pit/posthole","B2.8"
+2886,72,39,"Stakehole","B2.8"
+2887,72,40,"Stakehole","B2.8"
+2888,72,41,"Stakehole","B2.8"
+2889,72,42,"Stakehole","B2.8"
+2890,72,43,"Stakehole","B2.8"
+2891,72,44,"Posthole","B2.8"
+2892,72,45,"Pit","B2.8"
+2893,72,"98, 46, 86, 117","Slot","B2.8"
+2894,72,48,"Pit","B2.8"
+2895,72,50,"Pit","B2.8"
+2896,72,52,"Pit","B2.8"
+2897,72,"110, 54, 108","? Slot","B2.8"
+2898,72,"120, 119, 55","Pit","B2.8"
+2899,72,56,"Posthole","B2.8"
+2900,72,58,"Stakehole","B2.8"
+2901,72,59,"Stakehole","B2.8"
+2902,72,"60, 123","Stakehole","B2.8"
+2903,72,"114, 61, 95, 96","Pit","B2.8"
+2816,78,21,"Slot","B2.8"
+2817,78,"22, 28","Slot","B2.8"
+2904,72,62,"Posthole","B2.8"
+2905,72,"63, 122","Pit","B2.8"
+2906,72,65,"Posthole","B2.8"
+2907,72,66,"Posthole","B2.8"
+2908,72,67,"Pit","B2.8"
+2909,72,68,"? Pit","B2.8"
+2910,72,69,"Posthole","B2.8"
+2911,72,71,"Pit","B2.8"
+2912,72,72,"Posthole","B2.8"
+2913,72,73,"Stakehole","B2.8"
+2914,72,74,"Stakehole","B2.8"
+2915,72,"78, 111","Posthole / pit","B2.8"
+2916,72,79,"Pit","B2.8"
+2917,72,81,"Posthole","B2.8"
+2918,72,85,"Slot [same as F2877]","B2.8"
+2919,72,87,"Posthole","B2.8"
+2920,72,89,"Posthole","B2.8"
+2921,72,90,"Pit","B2.8"
+2922,72,91,"Pit","B2.8"
+2923,72,92,"Posthole","B2.8"
+2924,72,93,"Posthole","B2.8"
+2925,72,94,"Pit","B2.8"
+2926,72,97,"Slot","B2.8"
+2927,72,99,"Construction trench of south wall","B2.8"
+2928,72,100,"Posthole","B2.8"
+2929,72,101,"Posthole","B2.8"
+2930,72,102,"? Posthole","B2.8"
+2931,72,"103-107","Pit","B2.8"
+2932,72,109,"Stakehole","B2.8"
+2933,72,112,"Stakehole","B2.8"
+2934,72,113,"Stakehole","B2.8"
+2935,72,115,"Posthole","B2.8"
+2936,72,116,"Possible Stakehole","B2.8"
+2937,72,118,"Slot","B2.8"
+2938,72,124,"Posthole","B2.8"
+2939,72,125,"Posthole","B2.8"
+2940,72,126,"Stakehole","B2.8"
+2941,72,127,"Stakehole","B2.8"
+2942,72,132,"Stakehole","B2.8"
+2943,72,132,"Stakehole","B2.8"
+2944,72,133,"Posthole","B2.8"
+2945,72,134,"Posthole","B2.8"
+2946,72,135,"Posthole","B2.8"
+2947,72,136,"Stakehole","B2.8"
+2948,72,137,"Stakehole","B2.8"
+2949,72,138,"Stakehole","B2.8"
+2950,72,129,"Stakehole","B2.8"
+2951,72,130,"Posthole","B2.8"
+2952,72,84,"Stakehole","B2.8"
+2953,72,98,"Posthole","B2.8"
+2954,72,11,"Pit","B2.8"
+2955,72,37,"Pit","B2.8"
+2956,72,38,"Pit","B2.8"
+2957,72,47,"Trench","B2.8"
+2958,72,70,"Stakehole","B2.8"
+2959,72,75,"? Small feature","B2.8"
+2960,72,76,"? Small feature","B2.8"
+2961,72,82,"? Stakehole","B2.8"
+2962,72,83,"? Posthole","B2.8"
+2963,70,64,"? Irregular feature","B2.8"
+2964,43,1,"C19th excavation trench","B2.9"
+2965,43,,"construction trench for Wall F2134","B2.9"
+2966,43,"10, 15, 16","? Gully E/W","B2.9"
+2967,43,17,"Pit","B2.9"
+2968,43,19,"Stakehole","B2.9"
+2969,43,20,"slot  E/W","B2.9"
+2970,45,"+a","C19th excavation trench","B2.9"
+2971,45,10,"Posthole","B2.9"
+2972,45,11,"Posthole","B2.9"
+2973,45,16,"Pit","B2.9"
+2974,45,19,"Pit","B2.9"
+2975,45,20,"Pit","B2.9"
+2976,45,21,"? Posthole","B2.9"
+2977,45,22,"Slot","B2.9"
+2978,45,23,"Slot","B2.9"
+2979,45,24,"Slot","B2.9"
+2980,45,25,"Slot","B2.9"
+2981,45,26,"Slot","B2.9"
+2982,51,6,"C19th excavation trench","B2.9"
+2983,51,"1a","Trench","B2.9"
+2984,51,"15, 17","Pit","B2.9"
+2985,51,20,"Pit","B2.9"
+2986,51,25,"Pit","B2.9"
+2987,61,"30a","Slot","B2.9"
+2988,51,"30b","Slot","B2.9"
+2989,51,29,"Pit","B2.9"
+2990,51,21,"Pit (latrine)","B2.9"
+2991,51,16,"Pit","B2.9"
+2992,51,31,"Posthole","B2.9"
+2993,51,32,"Posthole","B2.9"
+2994,51,33,"Posthole","B2.9"
+2995,51,22,"Pit?","B2.9"
+2996,51,34,"Posthole","B2.9"
+2997,51,35,"Posthole","B2.9"
+2998,51,36,"Posthole","B2.9"
+2999,51,37,"Posthole","B2.9"
+3000,51,38,"Posthole","B2.9"
+3001,51,39,"Posthole","B2.9"
+3002,51,26,"Stakehole","B2.9"
+3003,51,40,"Posthole","B2.9"
+3004,51,41,"Stakehole","B2.9"
+3005,51,"27, 28","Plank / slot ???","B2.9"
+3006,51,42,"Stakehole","B2.9"
+3007,51,43,"Joist hole","B2.9"
+3008,51,44,"Joist hole","B2.9"
+3009,51,"21a","Timber lining to latrine pit F2990","B2.9"
+3010,51,,"Possible burnt remains of wooden floor","B2.9"
+3011,44,,"Posthole","B2.9"
+3012,44,,"Slot","B2.9"
+3013,44,,"Slot","B2.9"
+3014,44,,"Posthole","B2.9"
+3015,44,,"Posthole","B2.9"
+3016,44,,"pit","B2.9"
+3017,44,,"pit","B2.9"
+3018,44,,"Trench","B2.9"
+3019,44,,"Posthole","B2.9"
+3020,44,,"? Slot","B2.9"
+3021,44,,"Pit","B2.9"
+3022,44,,"Slot","B2.9"
+3023,8,9,"Robber trench / excavation Trench","B2.9"
+3024,8,17,"? Posthole","B2.9"
+3025,"8, 29, 40","26, 22, 19","? Beamslot  N/S","B2.9"
+3026,8,23,"Linear slot N/S","B2.9"
+3027,8,25,"Scaffold post hole","B2.9"
+3028,8,21,"Beam slot (sleeper beam) EW","B2.9"
+3029,29,1,"Robber trench","B2.9"
+3030,29,2,"? Construction trench","B2.9"
+3031,29,9,"Hearth","B2.9"
+3032,29,20,"Foundation for Wall F2135","B2.9"
+3033,29,21,"Pit","B2.9"
+3034,29,23,"Beam slot","B2.9"
+3035,40,15,"? Post hole","B2.9"
+3036,40,16,"Beam slot","B2.9"
+3037,40,18,"Beam slot","B2.9"
+3038,40,20,"posthole","B2.9"
+3039,40,22,"Posthole","B2.9"
+3040,40,23,"? C19th excavation trench","B2.9"
+3041,81,1,"1955 Trench D","B2.9"
+3042,81,2,"Modern posthole","B2.9"
+3043,81,3,"? Modern Trench","B2.9"
+3044,81,8,"Construction trench Baths retaining Wall","B2.9"
+3045,81,9,"Construction trench","B2.9"
+3046,81,"12, 70, 71","Construction trench Baths Room 12","B2.9"
+3047,81,16,"Pit","B2.9"
+3048,81,18,"? Feature","B2.9"
+3049,81,"19, 20","Pit","B2.9"
+3050,81,"22, 80, 69","Pit","B2.9"
+3051,81,"34. 33","? Posthole","B2.9"
+3052,81,39,"Stakehole / posthole","B2.9"
+3053,81,41,"? Posthole","B2.9"
+3054,81,42,"Post-military feature","B2.9"
+3055,81,43,"? Modern features","B2.9"
+3056,81,44,"Post-military feature","B2.9"
+3057,81,45,"Post-military feature","B2.9"
+3058,81,46,"Post-baths construction feature","B2.9"
+3059,81,48,"Post-baths construction feature","B2.9"
+3060,81,49,"Post-military feature","B2.9"
+3061,81,50,"? Posthole","B2.9"
+3062,81,55,"Beam slot","B2.9"
+3063,81,56,"Beam slot","B2.9"
+3064,81,57,"Posthole","B2.9"
+3065,81,58,"Posthole","B2.9"
+3066,81,60,"Posthole","B2.9"
+3067,81,61,"Posthole","B2.9"
+3068,81,62,"Posthole","B2.9"
+3069,81,63,"Pit","B2.9"
+3070,81,64,"Posthole","B2.9"
+3071,81,65,"Posthole","B2.9"
+3072,81,66,"?","B2.9"
+3073,81,67,"Posthole","B2.9"
+3074,81,68,"Stake hole","B2.9"
+3075,81,73,"Beam slot","B2.9"
+3076,81,75,"Beam slot","B2.9"
+3077,81,76,"Posthole","B2.9"
+3078,81,77,"Posthole","B2.9"
+3079,81,78,"Posthole","B2.9"
+3080,81,82,"Posthole","B2.9"
+3081,81,83,"Posthole","B2.9"
+3082,81,85,"Construction trench","B2.9"
+3083,81,86,"Pit","B2.9"
+3084,81,87,"Posthole","B2.9"
+3085,81,89,"? Pit","B2.9"
+3086,81,91,"Linear slot","B2.9"
+3087,"86?",,,"B2.9"
+3088,"86?",,,"B2.9"
+3089,90,44,"Pit","B2.9"
+3090,90,111,"Post-hole","B2.9"
+3091,90,241,"Pit","B2.9"
+3092,90,246,"Pit","B2.9"
+3093,90,250,"Rampart ditch","B2.9"
+3094,90,66,"Trench /gully","B2.9"
+3095,24,,"N. Wall of Room/Box 38 construction trench 3119","B2.9"
+3096,24,,"East Wall of room/Box 38","B2.9"
+3097,24,"+","Robber trench","B2.9"
+3098,23,"1;4","2nd World War pit","B2.9"
+3099,23,"2;7","Robber trench /excavation trench","B2.9"
+3100,23,10,"Pit","B2.9"
+3101,23,,"Aqueduct abutment","B2.9"
+3102,22,5,"Water pipe trench","B2.9"
+3103,22,31,"Linear Trench","B2.9"
+3104,22,36,"? Pit","B2.9"
+3105,22,37,"Water pipe trench","B2.9"
+3106,22,41,"? Linear trench","B2.9"
+3107,22,"43, 44","Water pipe trench","B2.9"
+3108,22,56,"Linear feature","B2.9"
+3109,62,1,"Robber trench","B2.9"
+3110,62,10,"Pit","B2.9"
+3111,62,11,"Pit","B2.9"
+3112,62,19,"Construction Trench from wall 3096","B2.9"
+3113,59,6,"Water pipe trench = F3102","B2.9"
+3114,59,10,"Pit + gully","B2.9"
+3115,59,15,"Trench","B2.9"
+3116,60,"7; 22","Robber trench","B2.9"
+3117,58,6,"N-S trench in Baulk, 58 & 26 KK excavation trench","B2.9"
+3118,58,7,"E-W trench NW corner of box","B2.9"
+3119,62,20,"Construction trench for wall F3095","B2.9"
+3120,62,17,"Water pipe trench 4 pipes","B2.9"
+3121,60,12,"Pit","B2.9"
+3122,25,20,"? Slot","B2.9"
+3123,64,11,"pit / trench","B2.9"
+3124,"36, 54",,"Wall, E wall of room 11","B2.9"
+3125,54,"26, ?17","RAF pit? / excavation trench","B2.9"
+3126,54,,"Wall S Wall of room 11","B2.9"
+3127,54,22,"Trench","B2.9"
+3128,"55/54",,"Stakeholes","B2.9"
+3129,55,10,"Intrusion?","B2.9"
+3130,55,,"Posthole","B2.9"
+3131,55,,"Posthole","B2.9"
+3132,25,,"?Posthole","B2.9"
+3133,25,,"? Post setting","B2.9"
+3134,62,21,"Flue tile structure","B2.9"
+3135,22,,"Wall-east wall of cold plunge 8","B2.9"
+3136,56,3,"KK Trench","B2.9"
+3137,"56/57","+","Modern drainage trench","B2.9"
+3138,57,"24, 28","Wooden water pipe trench","B2.9"
+3139,56,5,"Trench?","B2.9"
+3140,44,"4, 5","Foundation trench","B2.9"
+3141,44,,"Pit","B2.9"
+3142,44,25,"Trench","B2.9"
+3143,44,"6, 8, 9","Trench","B2.9"
+3144,44,17,"Beam slot","B2.9"
+3145,44,27,"Beam slot","B2.9"
+3146,44,33,"? Old excavation","B2.9"
+3147,54,"16, 18","Robber trench","B2.9"
+3148,36,25,"? Shallow slot","B2.9"
+3149,36,36,"Pit? Construction","B2.9"
+3150,60,17,"? Gully","B2.9"
+3151,60,,"Posthole","B2.9"
+3152,60,,"Posthole","B2.9"
+3153,44,29,"old excavation","B2.9"
+3154,22,25,"negative feature","B2.9"
+3155,38,,"Wall - west wall of 38","B2.9"
+3156,38,,"Vertical slot in Wall F3095","B2.9"
+3157,38,,"Vertical slot in Wall F3095","B2.9"
+3158,38,"31; 32","Pit","B2.9"
+3159,38,,"door in wall F3096","B2.9"
+3160,38,,"Flue","B2.9"
+3161,38,,"Step - lower","B2.9"
+3162,38,,"Step - upper","B2.9"
+3163,21,,"Herringbone floor","B2.9"
+3164,21,,"Wall South W box 38/N wall room 11","B2.9"
+3165,15,,"Wall","B2.9"
+3166,15,"16-18; 43","Construction trench for F3163","B2.9"
+3167,15,38,"Slot","B2.9"
+3168,15,,"Wall N-S","B2.9"
+3169,15,24,"Construction trench for F3168","B2.9"
+3170,17,,"Posthole","B2.9"
+3171,17,,"Posthole","B2.9"
+3172,17,54,"Beam slot","B2.9"
+3173,17,,"Wall E-W aligned","B2.9"
+3174,17,14,"? Pit","B2.9"
+3175,16,22,"Barrow trench","B2.9"
+3176,16,4,"robber trench","B2.9"
+3177,16,31,"Water pipe trench","B2.9"
+3178,"16/48",,"C19th excavation trench","B2.9"
+3179,16,160,"Pit","B2.9"
+3180,"16/48",135,"Construction trench for Wall F3181","B2.9"
+3181,"16/48",,"Wall N/S","B2.9"
+3182,16,139,"Posthole","B2.9"
+3183,16,138,"Beam slot","B2.9"
+3184,16,"140/152","gully","B2.9"
+3185,16,161,"Gully","B2.9"
+3186,16,"164/162","Posthole","B2.9"
+3187,16,165,"Posthole","B2.9"
+3188,16,166,"Posthole","B2.9"
+3189,16,169,"Pit","B2.9"
+3190,16,34,"Pit or trench","B2.9"
+3191,16,35,"Trench","B2.9"
+3192,16,40,"C19th excavation trench","B2.9"
+3193,16,"61, 63, 107","wooden water pipe trench","B2.9"
+3194,48,1,"Linear slot","B2.9"
+3195,"48/16","48/3, 16/84+","1936 excavation report","B2.9"
+3196,48,12,"pit ? Old excavation","B2.9"
+3197,48,22,"Water pipe trench","B2.9"
+3198,48,23,"Water pipe trench","B2.9"
+3199,48,41,"Posthole","B2.9"
+3200,48,50,"Gully","B2.9"
+3201,48,"52; 69","Water pipe trench","B2.9"
+3202,48,55,"Posthole","B2.9"
+3203,48,56,"Posthole","B2.9"
+3204,48,57,"Post trench","B2.9"
+3205,48,58,"Pit","B2.9"
+3206,48,61,"Posthole","B2.9"
+3207,48,63,"Gully + pit","B2.9"
+3208,48,"90-93","Pit","B2.9"
+3209,65,1,"Excavation trench","B2.9"
+3210,65,"2, 3","Robber trench/old excavation trench","B2.9"
+3211,65,"4, 6","Robber trench","B2.9"
+3212,65,,"Postholes","B2.9"
+3213,65,35,"Posthole","B2.9"
+3214,65,39,"Posthole","B2.9"
+3215,65,40,"Pit","B2.9"
+3216,65,41,"Pit","B2.9"
+3217,69,42,"Pit","B2.9"
+3218,69,45,"Stakeholes","B2.9"
+3219,69,46,"Stakeholes","B2.9"
+3220,69,50,"Stakeholes","B2.9"
+3221,69,51,"Stakeholes","B2.9"
+3222,49,"24, 104","C19th excavation trench","B2.9"
+3223,49,105,"C19th excavation trench","B2.9"
+3224,49,41,"Pit","B2.9"
+3225,49,"62; 78","Construction trench, south corridor N. Wall","B2.9"
+3226,49,63,"Robber trench for S corridor, N wall","B2.9"
+3227,49,,"Wall - S. corridor, N. Wall","B2.9"
+3228,49,65,"Linear slot","B2.9"
+3229,49,66,"Pit","B2.9"
+3230,49,79,"Post trench","B2.9"
+3231,49,"68, 85-7","Pit military","B2.9"
+3232,49,89,"Posthole / post pipe","B2.9"
+3233,49,90,"Posthole / post pipe","B2.9"
+3234,49,"91-98","Stakeholes","B2.9"
+3235,49,"101-103","Stakeholes","B2.9"
+3236,49,146,"Construction trench, secondary external wall","B2.9"
+3237,49,,"Wall, secondary external wall","B2.9"
+3238,49,147,"Construction trench","B2.9"
+3239,49,,"Wall - S. caldarium wall","B2.9"
+3240,49,"172-175","Linear slot","B2.9"
+3241,67,15,"Construction trench, secondary external wall","B2.9"
+3242,67,"16; 25","Beam slot","B2.9"
+3243,67,20,"? Latrine pit","B2.9"
+3244,67,"27, 23, 26","Construction trench, Caldarium wall","B2.9"
+3245,67,24,"Beam slot","B2.9"
+3246,67,16,"Beam slot","B2.9"
+3247,67,29,"Linear feature","B2.9"
+3248,67,30,"Linear feature","B2.9"
+3249,67,31,"Linear feature","B2.9"
+281,84,"?","Beam slot","B2.1"
+282,"87i",101,"Feature sheet missing","B2.1"
+283,"87i",100,,"B2.1"
+284,86,79,"Pit","B2.1"
+285,"85ii",,,"B2.1"
+286,"85iii",,,"B2.1"
+287,"85iii",,,"B2.1"
+288,86,80,"Post","B2.1"
+289,"87i",100,,"B2.1"
+290,92,,,"B2.1"
+291,91,,,"B2.1"
+292,91,,,"B2.1"
+293,97,,"Abandoned as worm action","B2.1"
+294,97,,"Abandoned as worm action","B2.1"
+295,97,,"Abandoned as worm action","B2.1"
+296,97,,"Abandoned as worm action","B2.1"
+297,97,,"Abandoned as worm action","B2.1"
+298,84,162,"Posthole","B2.1"
+299,84,163,"Posthole","B2.1"
+300,80,56,"Shallow gulley","B2.1"
+301,97,,"Abandoned as worm action","B2.1"
+302,97,,"Abandoned as worm action","B2.1"
+303,97,,"Abandoned as worm action","B2.1"
+304,97,,"Abandoned as worm action","B2.1"
+305,97,,"Abandoned as worm action","B2.1"
+306,97,,"Abandoned as worm action","B2.1"
+307,97,,"Abandoned as worm action","B2.1"
+308,97,,"Abandoned as worm action","B2.1"
+309,97,,"Abandoned as worm action","B2.1"
+310,97,,"Abandoned as worm action","B2.2"
+311,97,,"Abandoned as worm action","B2.2"
+312,97,,"Abandoned as worm action","B2.2"
+313,97,,"Abandoned as worm action","B2.2"
+314,97,,"Abandoned as worm action","B2.2"
+315,97,,"Abandoned as worm action","B2.2"
+316,97,,"Abandoned as worm action","B2.2"
+317,97,,"Abandoned as worm action","B2.2"
+318,97,,"Abandoned as worm action","B2.2"
+319,97,,"Abandoned as worm action","B2.2"
+320,97,,"Abandoned as worm action","B2.2"
+321,97,,"Abandoned as worm action","B2.2"
+322,97,,"Abandoned as worm action","B2.2"
+323,97,,"Abandoned as worm action","B2.2"
+324,97,,"Abandoned as worm action","B2.2"
+325,97,,"Abandoned as worm action","B2.2"
+326,97,,"Abandoned as worm action","B2.2"
+327,97,,"Abandoned as worm action","B2.2"
+328,97,,"Abandoned as worm action","B2.2"
+329,97,,"Abandoned as worm action","B2.2"
+330,97,,"Abandoned as worm action","B2.2"
+331,97,,"Abandoned as worm action","B2.2"
+332,84,,,"B2.2"
+333,97,23,"Posthole","B2.2"
+334,97,,"Abandoned as worm action","B2.2"
+335,97,,"Abandoned as worm action","B2.2"
+336,97,,"Abandoned as worm action","B2.2"
+337,91,,,"B2.2"
+338,91,,,"B2.2"
+339,84,"?","Pit/trench","B2.2"
+340,91,,,"B2.2"
+341,87,,,"B2.2"
+342,87,,,"B2.2"
+343,84,"?","Rampart strapping","B2.2"
+344,87,,,"B2.2"
+345,84,,"Stakehole","B2.2"
+346,84,,"Stakehole","B2.2"
+347,"85ii",,,"B2.2"
+348,92,,,"B2.2"
+349,"85ii",,,"B2.2"
+350,80,,,"B2.2"
+351,"85ii",,,"B2.2"
+352,91,79,,"B2.2"
+353,91,,,"B2.2"
+354,91,,,"B2.2"
+355,91,,,"B2.2"
+356,84,"85/296?","Pit","B2.2"
+357,84,86,"Burnt timber = F741","B2.2"
+358,97,27,,"B2.2"
+359,97,,,"B2.2"
+360,"85ii",,,"B2.2"
+361,"85ii",,,"B2.2"
+362,"85ii",,,"B2.2"
+363,"85ii",,,"B2.2"
+364,84,"81/84","?wall foundation","B2.2"
+365,80,,"Feature sheet missing","B2.2"
+366,91,,,"B2.2"
+367,91,,,"B2.2"
+368,91,,,"B2.2"
+369,91,,,"B2.2"
+370,91,,,"B2.2"
+371,91,,,"B2.2"
+372,91,,,"B2.2"
+373,91,,,"B2.2"
+374,92,,,"B2.2"
+375,91,,,"B2.2"
+376,97,53,,"B2.2"
+377,97,31,,"B2.2"
+378,84,91,"Construction trench","B2.2"
+379,91,,,"B2.2"
+380,91,,,"B2.2"
+381,92,,,"B2.2"
+382,91,,,"B2.2"
+383,84,94,"Not a feature - no sheet","B2.2"
+384,90,32,"Not a feature (worm action)","B2.2"
+385,90,32,"Not a feature (worm action)","B2.2"
+386,90,32,"Not a feature (worm action)","B2.2"
+387,90,32,"Not a feature (worm action)","B2.2"
+388,90,32,"Not a feature (worm action)","B2.2"
+389,90,32,"Not a feature (worm action)","B2.2"
+390,90,32,"Not a feature (worm action)","B2.2"
+391,90,32,"Not a feature (worm action)","B2.2"
+392,90,32,"Not a feature (worm action)","B2.2"
+393,90,32,"Not a feature (worm action)","B2.2"
+394,90,32,"Not a feature (worm action)","B2.2"
+395,90,32,"Not a feature (worm action)","B2.2"
+396,97,32,,"B2.2"
+397,91,72,"Posthole - number used also in areas 83-84","B2.2"
+398,91,,,"B2.2"
+399,91,,,"B2.2"
+400,92,,,"B2.2"
+401,97,33,,"B2.2"
+402,97,33,,"B2.2"
+403,83,,,"B2.2"
+404,84,98,"Trench","B2.2"
+405,91,,,"B2.2"
+406,83,,,"B2.2"
+407,93,,,"B2.2"
+408,92,,,"B2.2"
+409,92,,,"B2.2"
+410,92,,,"B2.2"
+411,92,,,"B2.2"
+412,92,,,"B2.2"
+413,92,,,"B2.2"
+414,92,,,"B2.2"
+415,92,,,"B2.2"
+416,92,,,"B2.2"
+417,84,77,"Stone wall","B2.2"
+418,92,,,"B2.2"
+419,92,,,"B2.2"
+420,92,,,"B2.2"
+421,92,,,"B2.2"
+422,92,,,"B2.2"
+423,92,,,"B2.2"
+424,,,"Not used","B2.2"
+425,92,,,"B2.2"
+426,92,,,"B2.2"
+427,92,,,"B2.2"
+428,92,,,"B2.2"
+429,92,,,"B2.2"
+430,92,,,"B2.2"
+431,83,,,"B2.2"
+432,92,,,"B2.2"
+433,84,,"Rampart","B2.2"
+434,84,177,"Upper layer of F433","B2.2"
+435,84,,"Construction trench Stone building","B2.2"
+436,84,188,"Lowest layer of F433","B2.2"
+437,91,,,"B2.2"
+438,84,"70/84","Primary rampart","B2.2"
+439,97,36,,"B2.2"
+440,84,,"Posthole","B2.2"
+441,84,,"post pit for F440","B2.2"
+442,92,,,"B2.2"
+443,92,,,"B2.2"
+444,84,,"Timber strapping of Rampart","B2.2"
+445,92,,,"B2.2"
+446,92,,,"B2.2"
+447,92,,,"B2.2"
+448,92,,,"B2.2"
+449,92,,,"B2.2"
+450,97,37,,"B2.2"
+451,97,39,,"B2.2"
+452,97,38,,"B2.2"
+453,,,"Not used","B2.2"
+454,80,,,"B2.2"
+455,80,,,"B2.2"
+456,97,,,"B2.2"
+457,97,40,,"B2.2"
+458,91,,,"B2.2"
+459,91,,,"B2.2"
+460,90,78,"Pit","B2.2"
+461,91,,,"B2.2"
+462,80,"85-91","Pit. Number used in 97 also","B2.2"
+463,91,92,"Posthole Number used in 97 also","B2.2"
+464,97,41,"Not a feature (worm action)","B2.2"
+465,80,,,"B2.2"
+466,80,,,"B2.2"
+467,83,,,"B2.2"
+468,90,,"Posthole","B2.2"
+469,83,,,"B2.2"
+470,90,42,"? Hearth","B2.2"
+471,80,,,"B2.2"
+472,90,43,"Posthole","B2.2"
+473,90,46,"stake / posthole","B2.2"
+474,97,43,,"B2.2"
+475,80,,,"B2.2"
+476,97,44,,"B2.2"
+477,80,,,"B2.2"
+478,84,102,"post setting","B2.2"
+479,97,46,,"B2.2"
+480,80,,,"B2.2"
+481,92,,,"B2.2"
+482,84,103,"Unused Construction trench","B2.2"
+483,92,,,"B2.2"
+484,80,,,"B2.2"
+485,97,"51/57",,"B2.2"
+486,80,117,,"B2.2"
+487,92,,,"B2.2"
+488,92,,,"B2.2"
+489,92,,,"B2.2"
+490,92,,,"B2.2"
+491,92,,,"B2.2"
+492,84,,"? Oven base","B2.2"
+493,92,,,"B2.2"
+494,92,,,"B2.2"
+495,90,40,"Wall","B2.2"
+496,84,,"Posthole","B2.2"
+497,90,13,"post/stake hole","B2.2"
+498,90,13,"post/stake hole","B2.2"
+499,92,,,"B2.2"
+500,97,60,,"B2.2"
+501,97,63,,"B2.2"
+502,97,62,,"B2.2"
+503,84,112,"Trench","B2.2"
+504,92,,,"B2.2"
+505,84,,"Stakehole (3)","B2.2"
+506,90,53,"rubble ? Platform","B2.2"
+507,97,65,,"B2.2"
+508,84,113,"? Wall","B2.2"
+509,91,,,"B2.2"
+510,91,,,"B2.2"
+511,91,,,"B2.2"
+512,91,,,"B2.2"
+513,91,,,"B2.2"
+514,84,,,"B2.2"
+515,92,,,"B2.2"
+516,90,55,"Posthole","B2.2"
+517,80,,,"B2.2"
+518,80,,,"B2.2"
+519,97,66,,"B2.2"
+520,91,,,"B2.2"
+521,84,,,"B2.2"
+522,97,69,,"B2.2"
+523,97,"72, 100-01",,"B2.2"
+524,84,,,"B2.2"
+525,97,"83, 88-90, 92, 94",,"B2.2"
+526,83,,,"B2.2"
+527,97,78,,"B2.2"
+528,,,"not used","B2.2"
+529,91,,,"B2.2"
+530,91,,,"B2.2"
+531,97,79,,"B2.2"
+532,97,80,,"B2.2"
+533,97,81,,"B2.2"
+534,97,87,,"B2.2"
+535,80,,,"B2.2"
+536,83,,,"B2.2"
+537,97,95,,"B2.2"
+538,91,,,"B2.2"
+539,91,,,"B2.2"
+540,91,,,"B2.3"
+541,,,"not used","B2.3"
+542,90,57,"Posthole","B2.3"
+543,90,,,"B2.3"
+544,90,,,"B2.3"
+545,91,,,"B2.3"
+546,83,,,"B2.3"
+547,80,,,"B2.3"
+548,97,98,,"B2.3"
+549,83,,,"B2.3"
+550,84,"129, 130, 110, 131","Fireplace - sheet missing","B2.3"
+551,91,,,"B2.3"
+552,97,103,,"B2.3"
+553,97,102,,"B2.3"
+554,98,11,,"B2.3"
+555,83,,,"B2.3"
+556,80,,,"B2.3"
+557,97,,"Not a feature (worm action)","B2.3"
+558,83,,,"B2.3"
+559,83,,,"B2.3"
+560,80,,,"B2.3"
+561,80,,,"B2.3"
+562,80,,,"B2.3"
+563,80,146,"Pit (late) sheet missing","B2.3"
+564,80,,,"B2.3"
+565,91,,,"B2.3"
+566,97,,"Number abandoned as worm action)","B2.3"
+567,83,,,"B2.3"
+568,97,104,,"B2.3"
+569,83,,,"B2.3"
+570,80,,"Rubbish pit - nothing on card","B2.3"
+571,80,,,"B2.3"
+572,97,"106-108",,"B2.3"
+573,90,,,"B2.3"
+574,97,"105, 116",,"B2.3"
+575,97,109,,"B2.3"
+576,97,110,,"B2.3"
+577,83,,,"B2.3"
+578,83,,,"B2.3"
+579,97,"111-2, 114-5, 117",,"B2.3"
+580,97,113,,"B2.3"
+581,97,118,,"B2.3"
+582,90,,,"B2.3"
+583,97,119,,"B2.3"
+584,83,,,"B2.3"
+585,83,,,"B2.3"
+586,"83/91",,"used twice","B2.3"
+587,91,,,"B2.3"
+588,91,,,"B2.3"
+589,91,,,"B2.3"
+590,91,,,"B2.3"
+591,90,,,"B2.3"
+592,91,,,"B2.3"
+593,98,,,"B2.3"
+594,98,,,"B2.3"
+595,91,,,"B2.3"
+596,91,,,"B2.3"
+597,90,,,"B2.3"
+598,90,,,"B2.3"
+599,90,,,"B2.3"
+600,91,,,"B2.3"
+601,98,,,"B2.3"
+603,84,,,"B2.3"
+604,84,,,"B2.3"
+605,84,,,"B2.3"
+606,84,,,"B2.3"
+607,84,,,"B2.3"
+608,91,,,"B2.3"
+609,84,,,"B2.3"
+610,90,,"does not exist no sheet","B2.3"
+611,84,,,"B2.3"
+612,84,,,"B2.3"
+613,84,,,"B2.3"
+614,84,,,"B2.3"
+615,84,,,"B2.3"
+616,84,,,"B2.3"
+617,84,,,"B2.3"
+618,84,,,"B2.3"
+619,84,,,"B2.3"
+620,84,,,"B2.3"
+621,84,,,"B2.3"
+622,84,,,"B2.3"
+623,90,,,"B2.3"
+624,9,,,"B2.3"
+625,90,,,"B2.3"
+626,90,99,"Feature sheet missing","B2.3"
+627,84,,,"B2.3"
+628,84,,,"B2.3"
+629,91,,,"B2.3"
+630,90,,,"B2.3"
+631,90,,,"B2.3"
+632,80,,,"B2.3"
+633,80,,,"B2.3"
+634,98,,,"B2.3"
+635,80,,,"B2.3"
+602,90,,,"B2.3"
+636,80,,,"B2.3"
+637,80,,,"B2.3"
+638,98,,,"B2.3"
+639,98,,,"B2.3"
+640,80,,,"B2.3"
+641,80,,,"B2.3"
+642,90,,,"B2.3"
+643,90,,,"B2.3"
+644,80,,,"B2.3"
+645,91,,,"B2.3"
+646,91,,,"B2.3"
+647,91,,,"B2.3"
+648,91,,,"B2.3"
+649,98,,,"B2.3"
+650,98,,,"B2.3"
+651,98,,,"B2.3"
+652,98,,,"B2.3"
+653,98,,,"B2.3"
+654,80,,,"B2.3"
+655,80,,,"B2.3"
+656,98,,,"B2.3"
+657,80,,,"B2.3"
+658,90,,,"B2.3"
+659,98,,,"B2.3"
+660,80,,,"B2.3"
+661,80,,,"B2.3"
+662,80,,,"B2.3"
+663,80,,,"B2.3"
+664,80,,,"B2.3"
+665,91,,,"B2.3"
+666,91,,,"B2.3"
+667,91,,,"B2.3"
+668,91,,,"B2.3"
+669,91,,,"B2.3"
+670,87,101,"Foundation trench","B2.3"
+671,80,,,"B2.3"
+672,98,,,"B2.3"
+673,90,,,"B2.3"
+674,98,,,"B2.3"
+675,98,,,"B2.3"
+676,90,,,"B2.3"
+677,98,,,"B2.3"
+678,98,,,"B2.3"
+679,98,,,"B2.3"
+680,98,,,"B2.3"
+681,84,,"Number also used in 80","B2.3"
+682,98,,,"B2.3"
+683,90,,,"B2.3"
+684,84,262,"not a feature no sheet","B2.3"
+685,87,105,"slot","B2.3"
+686,80,213,"pit - Colin Wallace notes feature sheet is wrong","B2.3"
+687,84,,,"B2.3"
+688,90,,,"B2.3"
+689,80,,,"B2.3"
+690,80,,,"B2.3"
+691,84,,,"B2.3"
+692,84,,,"B2.3"
+693,84,,,"B2.3"
+694,84,,,"B2.3"
+696,80,,,"B2.3"
+697,80,,,"B2.3"
+698,97,123,,"B2.3"
+699,97,122,,"B2.3"
+700,84,,,"B2.3"
+701,91,,,"B2.3"
+702,80,,,"B2.3"
+703,80,,,"B2.3"
+704,91,,,"B2.3"
+705,91,,,"B2.3"
+706,97,125,,"B2.3"
+707,80,,,"B2.3"
+708,90,,,"B2.3"
+709,90,,,"B2.3"
+710,97,126,,"B2.3"
+711,97,127,,"B2.3"
+712,84,,,"B2.3"
+713,84,,,"B2.3"
+714,98,,,"B2.3"
+715,91,,,"B2.3"
+716,84,,,"B2.3"
+717,80,,,"B2.3"
+718,80,,,"B2.3"
+719,80,,,"B2.3"
+720,80,,,"B2.3"
+721,80,,,"B2.3"
+722,90,,,"B2.3"
+723,97,129,,"B2.3"
+724,91,,,"B2.3"
+725,98,,,"B2.3"
+726,80,,,"B2.3"
+727,84,,,"B2.3"
+728,84,,,"B2.3"
+729,84,,,"B2.3"
+730,84,,,"B2.3"
+731,84,,,"B2.3"
+732,84,,,"B2.3"
+733,,,"Not used","B2.3"
+734,80,,,"B2.3"
+735,98,,,"B2.3"
+736,90,,,"B2.3"
+737,80,,,"B2.3"
+738,91,,,"B2.3"
+739,84,,,"B2.3"
+740,84,,,"B2.3"
+741,84,,,"B2.3"
+742,"87/84",,,"B2.3"
+743,80,,,"B2.3"
+744,80,,,"B2.3"
+745,80,,,"B2.3"
+746,91,,,"B2.3"
+747,97,"131-2",,"B2.3"
+748,80,,,"B2.3"
+749,80,,,"B2.3"
+750,80,,,"B2.3"
+751,80,,,"B2.3"
+695,84,,,"B2.3"
+752,84,,,"B2.3"
+753,84,,,"B2.3"
+754,84,,,"B2.3"
+755,84,,,"B2.3"
+756,91,,,"B2.3"
+757,80,,,"B2.3"
+758,84,,,"B2.3"
+759,80,,,"B2.3"
+760,98,,,"B2.3"
+761,97,136,,"B2.3"
+762,97,134,,"B2.3"
+763,97,135,,"B2.3"
+764,84,,,"B2.3"
+765,84,,,"B2.3"
+766,98,,,"B2.3"
+767,80,,,"B2.3"
+768,90,150,"?Feature - sheet missing","B2.3"
+769,80,,,"B2.3"
+770,84,,,"B2.4"
+771,84,,,"B2.4"
+772,84,,,"B2.4"
+773,80,,,"B2.4"
+774,80,,,"B2.4"
+775,80,,,"B2.4"
+776,80,,,"B2.4"
+777,91,,,"B2.4"
+778,90,,,"B2.4"
+779,91,,,"B2.4"
+780,80,,,"B2.4"
+781,80,,,"B2.4"
+782,91,,,"B2.4"
+783,91,,,"B2.4"
+784,84,,,"B2.4"
+785,84,,,"B2.4"
+786,84,,,"B2.4"
+787,84,,,"B2.4"
+788,90,,,"B2.4"
+789,90,,,"B2.4"
+790,98,,,"B2.4"
+791,98,,,"B2.4"
+792,97,141,,"B2.4"
+793,90,,,"B2.4"
+794,90,,,"B2.4"
+795,98,,,"B2.4"
+796,98,,,"B2.4"
+797,97,182,,"B2.4"
+798,97,143,,"B2.4"
+799,97,1465,,"B2.4"
+800,98,,,"B2.4"
+801,98,,,"B2.4"
+802,90,,,"B2.4"
+803,97,152,,"B2.4"
+804,98,,,"B2.4"
+805,91,,,"B2.4"
+806,91,,,"B2.4"
+807,98,,,"B2.4"
+808,91,,,"B2.4"
+809,91,,,"B2.4"
+810,97,"144, 155",,"B2.4"
+811,91,,,"B2.4"
+812,84,,,"B2.4"
+813,84,,,"B2.4"
+814,97,159,,"B2.4"
+815,97,160,,"B2.4"
+816,97,161,,"B2.4"
+817,97,157,,"B2.4"
+818,97,162,,"B2.4"
+819,97,163,,"B2.4"
+820,98,,,"B2.4"
+821,91,,,"B2.4"
+822,97,,,"B2.4"
+823,97,,,"B2.4"
+824,97,,,"B2.4"
+825,97,,,"B2.4"
+826,97,,,"B2.4"
+827,97,,,"B2.4"
+828,97,,,"B2.4"
+829,98,,,"B2.4"
+830,97,165,,"B2.4"
+831,84,,,"B2.4"
+832,97,166,,"B2.4"
+833,91,,,"B2.4"
+834,91,,,"B2.4"
+835,97,168,,"B2.4"
+836,91,,,"B2.4"
+837,98,,,"B2.4"
+838,,,"Not used","B2.4"
+839,97,170,,"B2.4"
+840,97,171,,"B2.4"
+841,97,172,,"B2.4"
+842,97,173,,"B2.4"
+843,97,174,,"B2.4"
+844,90,,,"B2.4"
+845,97,175,,"B2.4"
+846,97,176,,"B2.4"
+847,84,,,"B2.4"
+848,84,,,"B2.4"
+849,84,,,"B2.4"
+850,97,177,,"B2.4"
+851,91,,,"B2.4"
+852,98,,,"B2.4"
+853,91,,,"B2.4"
+854,90,,,"B2.4"
+855,98,,,"B2.4"
+856,91,,,"B2.4"
+857,91,,,"B2.4"
+858,84,,,"B2.4"
+859,91,,,"B2.4"
+860,91,,,"B2.4"
+861,91,,,"B2.4"
+862,97,184,,"B2.4"
+863,84,,,"B2.4"
+864,97,185,,"B2.4"
+865,97,186,,"B2.4"
+866,90,,,"B2.4"
+867,97,188,,"B2.4"
+868,98,,,"B2.4"
+869,91,,,"B2.4"
+870,97,,,"B2.4"
+871,97,192,,"B2.4"
+872,97,,"Stakehole","B2.4"
+873,97,,"post-print","B2.4"
+874,97,,"post-print","B2.4"
+875,97,,"post-print","B2.4"
+876,97,,"post-print in F830","B2.4"
+877,97,,"post-print in F830","B2.4"
+878,97,,"post-print in F830","B2.4"
+879,97,,"post-print in F830","B2.4"
+880,97,,"post-print in F830","B2.4"
+881,97,,"post-print in F830","B2.4"
+882,97,,"post-print in F830","B2.4"
+883,97,,"post-print in F830","B2.4"
+884,97,,"post-print in F830","B2.4"
+885,97,,"post-print in F830","B2.4"
+886,97,,"post-print in F830","B2.4"
+887,91,,,"B2.4"
+888,91,,,"B2.4"
+889,91,,,"B2.4"
+890,98,,,"B2.4"
+891,98,,,"B2.4"
+892,90,,,"B2.4"
+893,90,,,"B2.4"
+894,90,,,"B2.4"
+895,90,,,"B2.4"
+896,90,,,"B2.4"
+897,90,,,"B2.4"
+898,90,,,"B2.4"
+899,90,,,"B2.4"
+900,90,,,"B2.4"
+901,90,,,"B2.4"
+902,90,,,"B2.4"
+903,90,,,"B2.4"
+904,90,,,"B2.4"
+905,90,,,"B2.4"
+906,90,,,"B2.4"
+907,90,,,"B2.4"
+908,90,,,"B2.4"
+909,90,,,"B2.4"
+910,90,,,"B2.4"
+911,90,,,"B2.4"
+912,90,,,"B2.4"
+913,90,,,"B2.4"
+914,90,,,"B2.4"
+915,90,,,"B2.4"
+916,90,,,"B2.4"
+917,90,,,"B2.4"
+918,90,,,"B2.4"
+919,90,,,"B2.4"
+920,90,,,"B2.4"
+921,90,,,"B2.4"
+922,90,,,"B2.4"
+923,90,,,"B2.4"
+924,90,,,"B2.4"
+925,90,,,"B2.4"
+926,90,,,"B2.4"
+927,90,,,"B2.4"
+928,90,,,"B2.4"
+929,90,,,"B2.4"
+930,98,,,"B2.4"
+931,97,202,,"B2.4"
+932,90,,,"B2.4"
+933,98,,,"B2.4"
+934,90,,,"B2.4"
+935,98,,,"B2.4"
+936,98,,,"B2.4"
+937,98,105,"Feature sheet missing EW slot","B2.4"
+938,90,,,"B2.4"
+939,97,208,,"B2.4"
+940,98,,,"B2.4"
+941,98,,,"B2.4"
+942,98,,,"B2.4"
+943,98,,,"B2.4"
+944,98,,,"B2.4"
+945,98,,,"B2.4"
+946,98,,,"B2.4"
+947,98,,,"B2.4"
+948,"91/84",,,"B2.4"
+949,98,,,"B2.4"
+950,98,,,"B2.4"
+951,90,,,"B2.4"
+952,98,,,"B2.4"
+953,97,"198, 200",,"B2.4"
+954,97,202,"=F931","B2.4"
+955,98,,,"B2.4"
+956,97,212,,"B2.4"
+957,97,"194-5, 229, 231-2",,"B2.4"
+958,91,,,"B2.4"
+959,91,,,"B2.4"
+960,98,,,"B2.4"
+961,97,254,,"B2.4"
+962,97,,"posthole in F956","B2.4"
+963,97,,"posthole in F956","B2.4"
+964,97,,"posthole in F956","B2.4"
+965,97,,"posthole in F956","B2.4"
+966,97,,"posthole in F956","B2.4"
+967,97,,"posthole in F956","B2.4"
+968,97,,"posthole in F956","B2.4"
+969,97,216,,"B2.4"
+970,91,,,"B2.4"
+971,97,188,,"B2.4"
+972,97,218,,"B2.4"
+973,97,219,,"B2.4"
+974,98,,,"B2.4"
+975,84,,,"B2.4"
+976,84,,,"B2.4"
+977,98,,,"B2.4"
+978,84,,,"B2.4"
+979,98,,,"B2.4"
+980,97,,"Two voids","B2.4"
+981,97,225,,"B2.4"
+982,97,,"Stakehole in F994","B2.4"
+983,97,,"Stakehole in F994","B2.4"
+984,97,,"Stakehole in F994","B2.4"
+985,97,,"Stakehole in F994","B2.4"
+986,97,,"Stakehole in F994","B2.4"
+987,97,,"Stakehole in F994","B2.4"
+988,97,,"Stakehole in F994","B2.4"
+989,97,,"Stakehole in F994","B2.4"
+990,97,,"Stakehole in F994","B2.4"
+991,97,,"Not a feature number abandoned","B2.4"
+992,91,,,"B2.4"
+993,91,,,"B2.4"
+994,97,,"Slot with post-hole","B2.4"
+995,91,,,"B2.4"
+996,97,,,"B2.4"
+997,90,,,"B2.4"
+998,84,,"Feature sheet missing - pit","B2.4"
+999,90,,,"B2.4"
+1000,91,269,"Beam slot","B2.5"
+1001,91,269,"Beam in rampart","B2.5"
+1002,84,,"Rectangular post","B2.5"
+1003,91,,"post, in F995","B2.5"
+1004,97,,"Stakehole","B2.5"
+1005,97,,"Stakehole","B2.5"
+1006,97,,"Stakehole, in F832","B2.5"
+1007,97,,"Stakehole, in F832","B2.5"
+1008,97,,"Stakehole, in F832","B2.5"
+1009,97,,"Stakehole, in F832","B2.5"
+1010,91,272,"Clay strip","B2.5"
+1011,97,236,"post imprint, in F870","B2.5"
+1012,98,146,"Rubbish pit","B2.5"
+1013,97,152,"Post imprint in F832","B2.5"
+1014,91,,"Post, in F995","B2.5"
+1015,91,210,"slot for west wall of centurial block","B2.5"
+1016,97,,"Stakehole","B2.5"
+1017,98,154,"pit","B2.5"
+1018,84,389,"pit","B2.5"
+1019,91,,"post, in F995","B2.5"
+1020,97,,"Stakehole in F803","B2.5"
+1021,97,,"Stakehole","B2.5"
+1022,97,,"Stakehole","B2.5"
+1023,97,,"Stakehole","B2.5"
+1024,97,,"Stakehole","B2.5"
+1025,97,,"Stakehole","B2.5"
+1026,97,,"Stakehole","B2.5"
+1027,90,218,"Stakehole","B2.5"
+1028,90,219,"Posthole","B2.5"
+1029,98,147,"Stakehole, in F944","B2.5"
+1030,97,,"Stakehole","B2.5"
+1031,91,"210?","Rectangular post","B2.5"
+1032,91,,"post, in F970","B2.5"
+1033,91,,"post, in F970","B2.5"
+1034,91,278,"Slot, for post","B2.5"
+1035,91,,"post, in F1034","B2.5"
+1036,97,,"Stakehole, in F803","B2.5"
+1037,97,,"Stakehole, in F803","B2.5"
+1038,97,,"Stakehole","B2.5"
+1039,97,,"Stakehole","B2.5"
+1040,97,,"Stakehole","B2.5"
+1041,91,,"post, in F959","B2.5"
+1042,91,,"post, in F959","B2.5"
+1043,97,242,"Stakehole slot","B2.5"
+1044,91,,"Driven stake","B2.5"
+1045,97,245,"Posthole","B2.5"
+1046,97,,"post, in F939","B2.5"
+1047,97,247,,"B2.5"
+1048,97,248,,"B2.5"
+1049,91,,,"B2.5"
+1050,98,,,"B2.5"
+1051,84,,,"B2.5"
+1052,84,,,"B2.5"
+1053,84,,,"B2.5"
+1054,98,,,"B2.5"
+1055,91,,,"B2.5"
+1056,91,,,"B2.5"
+1057,91,,,"B2.5"
+1058,90,,,"B2.5"
+1059,84,,,"B2.5"
+1060,98,,,"B2.5"
+1061,90,,,"B2.5"
+1062,90,,,"B2.5"
+1063,90,,,"B2.5"
+1064,91,,,"B2.5"
+1065,90,,,"B2.5"
+1066,90,,,"B2.5"
+1067,97,,,"B2.5"
+1068,90,,,"B2.5"
+1069,90,,,"B2.5"
+1070,90,,,"B2.5"
+1071,90,,,"B2.5"
+1072,90,,,"B2.5"
+1073,98,,,"B2.5"
+1074,98,,,"B2.5"
+1075,91,,"number abandoned","B2.5"
+1076,98,,,"B2.5"
+1077,98,,,"B2.5"
+1078,90,,,"B2.5"
+1079,98,,,"B2.5"
+1080,91,,,"B2.5"
+1081,91,,,"B2.5"
+1082,98,,,"B2.5"
+1083,97,251,,"B2.5"
+1084,90,,,"B2.5"
+1085,90,,,"B2.5"
+1086,90,,,"B2.5"
+1087,90,,,"B2.5"
+1088,90,,,"B2.5"
+1089,98,,,"B2.5"
+1090,98,,,"B2.5"
+1091,98,,,"B2.5"
+1092,98,,,"B2.5"
+1093,98,,,"B2.5"
+1094,98,,,"B2.5"
+1095,90,,,"B2.5"
+1096,98,,,"B2.5"
+1097,98,,,"B2.5"
+1098,98,,,"B2.5"
+1099,91,,,"B2.5"
+1100,,,"Number never assigned",
+1101,,,"Number never assigned",
+1102,,,"Number never assigned",
+1103,,,"Number never assigned",
+1104,,,"Number never assigned",
+1105,,,"Number never assigned",
+1106,,,"Number never assigned",
+1107,,,"Number never assigned",
+1108,,,"Number never assigned",
+1109,,,"Number never assigned",
+1110,,,"Number never assigned",
+1111,,,"Number never assigned",
+1112,,,"Number never assigned",
+1113,,,"Number never assigned",
+1114,,,"Number never assigned",
+1115,,,"Number never assigned",
+1116,,,"Number never assigned",
+1117,,,"Number never assigned",
+1118,,,"Number never assigned",
+1119,,,"Number never assigned",
+1120,,,"Number never assigned",
+1121,,,"Number never assigned",
+1122,,,"Number never assigned",
+1123,,,"Number never assigned",
+1124,,,"Number never assigned",
+1125,,,"Number never assigned",
+1126,,,"Number never assigned",
+1127,,,"Number never assigned",
+1128,,,"Number never assigned",
+1129,,,"Number never assigned",
+1130,,,"Number never assigned",
+1131,,,"Number never assigned",
+1132,,,"Number never assigned",
+1133,,,"Number never assigned",
+1134,,,"Number never assigned",
+1135,,,"Number never assigned",
+1136,,,"Number never assigned",
+1137,,,"Number never assigned",
+1138,,,"Number never assigned",
+1139,,,"Number never assigned",
+1140,,,"Number never assigned",
+1141,,,"Number never assigned",
+1142,,,"Number never assigned",
+1143,,,"Number never assigned",
+1144,,,"Number never assigned",
+1145,,,"Number never assigned",
+1146,,,"Number never assigned",
+1147,,,"Number never assigned",
+1148,,,"Number never assigned",
+1149,,,"Number never assigned",
+1150,,,"Number never assigned",
+1151,,,"Number never assigned",
+1152,,,"Number never assigned",
+1153,,,"Number never assigned",
+1154,,,"Number never assigned",
+1155,,,"Number never assigned",
+1156,,,"Number never assigned",
+1157,,,"Number never assigned",
+1158,,,"Number never assigned",
+1159,,,"Number never assigned",
+1160,,,"Number never assigned",
+1161,,,"Number never assigned",
+1162,,,"Number never assigned",
+1163,,,"Number never assigned",
+1164,,,"Number never assigned",
+1165,,,"Number never assigned",
+1166,,,"Number never assigned",
+1167,,,"Number never assigned",
+1168,,,"Number never assigned",
+1169,,,"Number never assigned",
+1170,,,"Number never assigned",
+1171,,,"Number never assigned",
+1172,,,"Number never assigned",
+1173,,,"Number never assigned",
+1174,,,"Number never assigned",
+1175,,,"Number never assigned",
+1176,,,"Number never assigned",
+1177,,,"Number never assigned",
+1178,,,"Number never assigned",
+1179,,,"Number never assigned",
+1180,,,"Number never assigned",
+1181,,,"Number never assigned",
+1182,,,"Number never assigned",
+1183,,,"Number never assigned",
+1184,,,"Number never assigned",
+1185,,,"Number never assigned",
+1186,,,"Number never assigned",
+1187,,,"Number never assigned",
+1188,,,"Number never assigned",
+1189,,,"Number never assigned",
+1190,,,"Number never assigned",
+1191,,,"Number never assigned",
+1192,,,"Number never assigned",
+1193,,,"Number never assigned",
+1194,,,"Number never assigned",
+1195,,,"Number never assigned",
+1196,,,"Number never assigned",
+1197,,,"Number never assigned",
+1198,,,"Number never assigned",
+1199,,,"Number never assigned",
+1200,,,"Number never assigned",
+1201,,,"Number never assigned",
+1202,,,"Number never assigned",
+1203,,,"Number never assigned",
+1204,,,"Number never assigned",
+1205,,,"Number never assigned",
+1206,,,"Number never assigned",
+1207,,,"Number never assigned",
+1208,,,"Number never assigned",
+1209,,,"Number never assigned",
+1210,,,"Number never assigned",
+1211,,,"Number never assigned",
+1212,,,"Number never assigned",
+1213,,,"Number never assigned",
+1214,,,"Number never assigned",
+1215,,,"Number never assigned",
+1216,,,"Number never assigned",
+1217,,,"Number never assigned",
+1218,,,"Number never assigned",
+1219,,,"Number never assigned",
+1220,,,"Number never assigned",
+1221,,,"Number never assigned",
+1222,,,"Number never assigned",
+1223,,,"Number never assigned",
+1224,,,"Number never assigned",
+1225,,,"Number never assigned",
+1226,,,"Number never assigned",
+1227,,,"Number never assigned",
+1228,,,"Number never assigned",
+1229,,,"Number never assigned",
+1230,,,"Number never assigned",
+1231,,,"Number never assigned",
+1232,,,"Number never assigned",
+1233,,,"Number never assigned",
+1234,,,"Number never assigned",
+1235,,,"Number never assigned",
+1236,,,"Number never assigned",
+1237,,,"Number never assigned",
+1238,,,"Number never assigned",
+1239,,,"Number never assigned",
+1240,,,"Number never assigned",
+1241,,,"Number never assigned",
+1242,,,"Number never assigned",
+1243,,,"Number never assigned",
+1244,,,"Number never assigned",
+1245,,,"Number never assigned",
+1246,,,"Number never assigned",
+1247,,,"Number never assigned",
+1248,,,"Number never assigned",
+1249,,,"Number never assigned",
+1250,,,"Number never assigned",
+1251,,,"Number never assigned",
+1252,,,"Number never assigned",
+1253,,,"Number never assigned",
+1254,,,"Number never assigned",
+1255,,,"Number never assigned",
+1256,,,"Number never assigned",
+1257,,,"Number never assigned",
+1258,,,"Number never assigned",
+1259,,,"Number never assigned",
+1260,,,"Number never assigned",
+1261,,,"Number never assigned",
+1262,,,"Number never assigned",
+1263,,,"Number never assigned",
+1264,,,"Number never assigned",
+1265,,,"Number never assigned",
+1266,,,"Number never assigned",
+1267,,,"Number never assigned",
+1268,,,"Number never assigned",
+1269,,,"Number never assigned",
+1270,,,"Number never assigned",
+1271,,,"Number never assigned",
+1272,,,"Number never assigned",
+1273,,,"Number never assigned",
+1274,,,"Number never assigned",
+1275,,,"Number never assigned",
+1276,,,"Number never assigned",
+1277,,,"Number never assigned",
+1278,,,"Number never assigned",
+1279,,,"Number never assigned",
+1280,,,"Number never assigned",
+1281,,,"Number never assigned",
+1282,,,"Number never assigned",
+1283,,,"Number never assigned",
+1284,,,"Number never assigned",
+1285,,,"Number never assigned",
+1286,,,"Number never assigned",
+1287,,,"Number never assigned",
+1288,,,"Number never assigned",
+1289,,,"Number never assigned",
+1290,,,"Number never assigned",
+1291,,,"Number never assigned",
+1292,,,"Number never assigned",
+1293,,,"Number never assigned",
+1294,,,"Number never assigned",
+1295,,,"Number never assigned",
+1296,,,"Number never assigned",
+1297,,,"Number never assigned",
+1298,,,"Number never assigned",
+1299,,,"Number never assigned",
+1300,,,"Number never assigned",
+1301,,,"Number never assigned",
+1302,,,"Number never assigned",
+1303,,,"Number never assigned",
+1304,,,"Number never assigned",
+1305,,,"Number never assigned",
+1306,,,"Number never assigned",
+1307,,,"Number never assigned",
+1308,,,"Number never assigned",
+1309,,,"Number never assigned",
+1310,,,"Number never assigned",
+1311,,,"Number never assigned",
+1312,,,"Number never assigned",
+1313,,,"Number never assigned",
+1314,,,"Number never assigned",
+1315,,,"Number never assigned",
+1316,,,"Number never assigned",
+1317,,,"Number never assigned",
+1318,,,"Number never assigned",
+1319,,,"Number never assigned",
+1320,,,"Number never assigned",
+1321,,,"Number never assigned",
+1322,,,"Number never assigned",
+1323,,,"Number never assigned",
+1324,,,"Number never assigned",
+1325,,,"Number never assigned",
+1326,,,"Number never assigned",
+1327,,,"Number never assigned",
+1328,,,"Number never assigned",
+1329,,,"Number never assigned",
+1330,,,"Number never assigned",
+1331,,,"Number never assigned",
+1332,,,"Number never assigned",
+1333,,,"Number never assigned",
+1334,,,"Number never assigned",
+1335,,,"Number never assigned",
+1336,,,"Number never assigned",
+1337,,,"Number never assigned",
+1338,,,"Number never assigned",
+1339,,,"Number never assigned",
+1340,,,"Number never assigned",
+1341,,,"Number never assigned",
+1342,,,"Number never assigned",
+1343,,,"Number never assigned",
+1344,,,"Number never assigned",
+1345,,,"Number never assigned",
+1346,,,"Number never assigned",
+1347,,,"Number never assigned",
+1348,,,"Number never assigned",
+1349,,,"Number never assigned",
+1350,,,"Number never assigned",
+1351,,,"Number never assigned",
+1352,,,"Number never assigned",
+1353,,,"Number never assigned",
+1354,,,"Number never assigned",
+1355,,,"Number never assigned",
+1356,,,"Number never assigned",
+1357,,,"Number never assigned",
+1358,,,"Number never assigned",
+1359,,,"Number never assigned",
+1360,,,"Number never assigned",
+1361,,,"Number never assigned",
+1362,,,"Number never assigned",
+1363,,,"Number never assigned",
+1364,,,"Number never assigned",
+1365,,,"Number never assigned",
+1366,,,"Number never assigned",
+1367,,,"Number never assigned",
+1368,,,"Number never assigned",
+1369,,,"Number never assigned",
+1370,,,"Number never assigned",
+1371,,,"Number never assigned",
+1372,,,"Number never assigned",
+1373,,,"Number never assigned",
+1374,,,"Number never assigned",
+1375,,,"Number never assigned",
+1376,,,"Number never assigned",
+1377,,,"Number never assigned",
+1378,,,"Number never assigned",
+1379,,,"Number never assigned",
+1380,,,"Number never assigned",
+1381,,,"Number never assigned",
+1382,,,"Number never assigned",
+1383,,,"Number never assigned",
+1384,,,"Number never assigned",
+1385,,,"Number never assigned",
+1386,,,"Number never assigned",
+1387,,,"Number never assigned",
+1388,,,"Number never assigned",
+1389,,,"Number never assigned",
+1390,,,"Number never assigned",
+1391,,,"Number never assigned",
+1392,,,"Number never assigned",
+1393,,,"Number never assigned",
+1394,,,"Number never assigned",
+1395,,,"Number never assigned",
+1396,,,"Number never assigned",
+1397,,,"Number never assigned",
+1398,,,"Number never assigned",
+1399,,,"Number never assigned",
+1400,,,"Number never assigned",
+1401,,,"Number never assigned",
+1402,,,"Number never assigned",
+1403,,,"Number never assigned",
+1404,,,"Number never assigned",
+1405,,,"Number never assigned",
+1406,,,"Number never assigned",
+1407,,,"Number never assigned",
+1408,,,"Number never assigned",
+1409,,,"Number never assigned",
+1410,,,"Number never assigned",
+1411,,,"Number never assigned",
+1412,,,"Number never assigned",
+1413,,,"Number never assigned",
+1414,,,"Number never assigned",
+1415,,,"Number never assigned",
+1416,,,"Number never assigned",
+1417,,,"Number never assigned",
+1418,,,"Number never assigned",
+1419,,,"Number never assigned",
+1420,,,"Number never assigned",
+1421,,,"Number never assigned",
+1422,,,"Number never assigned",
+1423,,,"Number never assigned",
+1424,,,"Number never assigned",
+1425,,,"Number never assigned",
+1426,,,"Number never assigned",
+1427,,,"Number never assigned",
+1428,,,"Number never assigned",
+1429,,,"Number never assigned",
+1430,,,"Number never assigned",
+1431,,,"Number never assigned",
+1432,,,"Number never assigned",
+1433,,,"Number never assigned",
+1434,,,"Number never assigned",
+1435,,,"Number never assigned",
+1436,,,"Number never assigned",
+1437,,,"Number never assigned",
+1438,,,"Number never assigned",
+1439,,,"Number never assigned",
+1440,,,"Number never assigned",
+1441,,,"Number never assigned",
+1442,,,"Number never assigned",
+1443,,,"Number never assigned",
+1444,,,"Number never assigned",
+1445,,,"Number never assigned",
+1446,,,"Number never assigned",
+1447,,,"Number never assigned",
+1448,,,"Number never assigned",
+1449,,,"Number never assigned",
+1450,,,"Number never assigned",
+1451,,,"Number never assigned",
+1452,,,"Number never assigned",
+1453,,,"Number never assigned",
+1454,,,"Number never assigned",
+1455,,,"Number never assigned",
+1456,,,"Number never assigned",
+1457,,,"Number never assigned",
+1458,,,"Number never assigned",
+1459,,,"Number never assigned",
+1460,,,"Number never assigned",
+1461,,,"Number never assigned",
+1462,,,"Number never assigned",
+1463,,,"Number never assigned",
+1464,,,"Number never assigned",
+1465,,,"Number never assigned",
+1466,,,"Number never assigned",
+1467,,,"Number never assigned",
+1468,,,"Number never assigned",
+1469,,,"Number never assigned",
+1470,,,"Number never assigned",
+1471,,,"Number never assigned",
+1472,,,"Number never assigned",
+1473,,,"Number never assigned",
+1474,,,"Number never assigned",
+1475,,,"Number never assigned",
+1476,,,"Number never assigned",
+1477,,,"Number never assigned",
+1478,,,"Number never assigned",
+1479,,,"Number never assigned",
+1480,,,"Number never assigned",
+1481,,,"Number never assigned",
+1482,,,"Number never assigned",
+1483,,,"Number never assigned",
+1484,,,"Number never assigned",
+1485,,,"Number never assigned",
+1486,,,"Number never assigned",
+1487,,,"Number never assigned",
+1488,,,"Number never assigned",
+1489,,,"Number never assigned",
+1490,,,"Number never assigned",
+1491,,,"Number never assigned",
+1492,,,"Number never assigned",
+1493,,,"Number never assigned",
+1494,,,"Number never assigned",
+1495,,,"Number never assigned",
+1496,,,"Number never assigned",
+1497,,,"Number never assigned",
+1498,,,"Number never assigned",
+1499,,,"Number never assigned",
+1500,,,"Number never assigned",
+1501,,,"Number never assigned",
+1502,,,"Number never assigned",
+1503,,,"Number never assigned",
+1504,,,"Number never assigned",
+1505,,,"Number never assigned",
+1506,,,"Number never assigned",
+1507,,,"Number never assigned",
+1508,,,"Number never assigned",
+1509,,,"Number never assigned",
+1510,,,"Number never assigned",
+1511,,,"Number never assigned",
+1512,,,"Number never assigned",
+1513,,,"Number never assigned",
+1514,,,"Number never assigned",
+1515,,,"Number never assigned",
+1516,,,"Number never assigned",
+1517,,,"Number never assigned",
+1518,,,"Number never assigned",
+1519,,,"Number never assigned",
+1520,,,"Number never assigned",
+1521,,,"Number never assigned",
+1522,,,"Number never assigned",
+1523,,,"Number never assigned",
+1524,,,"Number never assigned",
+1525,,,"Number never assigned",
+1526,,,"Number never assigned",
+1527,,,"Number never assigned",
+1528,,,"Number never assigned",
+1529,,,"Number never assigned",
+1530,,,"Number never assigned",
+1531,,,"Number never assigned",
+1532,,,"Number never assigned",
+1533,,,"Number never assigned",
+1534,,,"Number never assigned",
+1535,,,"Number never assigned",
+1536,,,"Number never assigned",
+1537,,,"Number never assigned",
+1538,,,"Number never assigned",
+1539,,,"Number never assigned",
+1540,,,"Number never assigned",
+1541,,,"Number never assigned",
+1542,,,"Number never assigned",
+1543,,,"Number never assigned",
+1544,,,"Number never assigned",
+1545,,,"Number never assigned",
+1546,,,"Number never assigned",
+1547,,,"Number never assigned",
+1548,,,"Number never assigned",
+1549,,,"Number never assigned",
+1550,,,"Number never assigned",
+1551,,,"Number never assigned",
+1552,,,"Number never assigned",
+1553,,,"Number never assigned",
+1554,,,"Number never assigned",
+1555,,,"Number never assigned",
+1556,,,"Number never assigned",
+1557,,,"Number never assigned",
+1558,,,"Number never assigned",
+1559,,,"Number never assigned",
+1560,,,"Number never assigned",
+1561,,,"Number never assigned",
+1562,,,"Number never assigned",
+1563,,,"Number never assigned",
+1564,,,"Number never assigned",
+1565,,,"Number never assigned",
+1566,,,"Number never assigned",
+1567,,,"Number never assigned",
+1568,,,"Number never assigned",
+1569,,,"Number never assigned",
+1570,,,"Number never assigned",
+1571,,,"Number never assigned",
+1572,,,"Number never assigned",
+1573,,,"Number never assigned",
+1574,,,"Number never assigned",
+1575,,,"Number never assigned",
+1576,,,"Number never assigned",
+1577,,,"Number never assigned",
+1578,,,"Number never assigned",
+1579,,,"Number never assigned",
+1580,,,"Number never assigned",
+1581,,,"Number never assigned",
+1582,,,"Number never assigned",
+1583,,,"Number never assigned",
+1584,,,"Number never assigned",
+1585,,,"Number never assigned",
+1586,,,"Number never assigned",
+1587,,,"Number never assigned",
+1588,,,"Number never assigned",
+1589,,,"Number never assigned",
+1590,,,"Number never assigned",
+1591,,,"Number never assigned",
+1592,,,"Number never assigned",
+1593,,,"Number never assigned",
+1594,,,"Number never assigned",
+1595,,,"Number never assigned",
+1596,,,"Number never assigned",
+1597,,,"Number never assigned",
+1598,,,"Number never assigned",
+1599,,,"Number never assigned",
+1600,,,"Number never assigned",
+1601,,,"Number never assigned",
+1602,,,"Number never assigned",
+1603,,,"Number never assigned",
+1604,,,"Number never assigned",
+1605,,,"Number never assigned",
+1606,,,"Number never assigned",
+1607,,,"Number never assigned",
+1608,,,"Number never assigned",
+1609,,,"Number never assigned",
+1610,,,"Number never assigned",
+1611,,,"Number never assigned",
+1612,,,"Number never assigned",
+1613,,,"Number never assigned",
+1614,,,"Number never assigned",
+1615,,,"Number never assigned",
+1616,,,"Number never assigned",
+1617,,,"Number never assigned",
+1618,,,"Number never assigned",
+1619,,,"Number never assigned",
+1620,,,"Number never assigned",
+1621,,,"Number never assigned",
+1622,,,"Number never assigned",
+1623,,,"Number never assigned",
+1624,,,"Number never assigned",
+1625,,,"Number never assigned",
+1626,,,"Number never assigned",
+1627,,,"Number never assigned",
+1628,,,"Number never assigned",
+1629,,,"Number never assigned",
+1630,,,"Number never assigned",
+1631,,,"Number never assigned",
+1632,,,"Number never assigned",
+1633,,,"Number never assigned",
+1634,,,"Number never assigned",
+1635,,,"Number never assigned",
+1636,,,"Number never assigned",
+1637,,,"Number never assigned",
+1638,,,"Number never assigned",
+1639,,,"Number never assigned",
+1640,,,"Number never assigned",
+1641,,,"Number never assigned",
+1642,,,"Number never assigned",
+1643,,,"Number never assigned",
+1644,,,"Number never assigned",
+1645,,,"Number never assigned",
+1646,,,"Number never assigned",
+1647,,,"Number never assigned",
+1648,,,"Number never assigned",
+1649,,,"Number never assigned",
+1650,,,"Number never assigned",
+1651,,,"Number never assigned",
+1652,,,"Number never assigned",
+1653,,,"Number never assigned",
+1654,,,"Number never assigned",
+1655,,,"Number never assigned",
+1656,,,"Number never assigned",
+1657,,,"Number never assigned",
+1658,,,"Number never assigned",
+1659,,,"Number never assigned",
+1660,,,"Number never assigned",
+1661,,,"Number never assigned",
+1662,,,"Number never assigned",
+1663,,,"Number never assigned",
+1664,,,"Number never assigned",
+1665,,,"Number never assigned",
+1666,,,"Number never assigned",
+1667,,,"Number never assigned",
+1668,,,"Number never assigned",
+1669,,,"Number never assigned",
+1670,,,"Number never assigned",
+1671,,,"Number never assigned",
+1672,,,"Number never assigned",
+1673,,,"Number never assigned",
+1674,,,"Number never assigned",
+1675,,,"Number never assigned",
+1676,,,"Number never assigned",
+1677,,,"Number never assigned",
+1678,,,"Number never assigned",
+1679,,,"Number never assigned",
+1680,,,"Number never assigned",
+1681,,,"Number never assigned",
+1682,,,"Number never assigned",
+1683,,,"Number never assigned",
+1684,,,"Number never assigned",
+1685,,,"Number never assigned",
+1686,,,"Number never assigned",
+1687,,,"Number never assigned",
+1688,,,"Number never assigned",
+1689,,,"Number never assigned",
+1690,,,"Number never assigned",
+1691,,,"Number never assigned",
+1692,,,"Number never assigned",
+1693,,,"Number never assigned",
+1694,,,"Number never assigned",
+1695,,,"Number never assigned",
+1696,,,"Number never assigned",
+1697,,,"Number never assigned",
+1698,,,"Number never assigned",
+1699,,,"Number never assigned",
+1700,,,"Number never assigned",
+1701,,,"Number never assigned",
+1702,,,"Number never assigned",
+1703,,,"Number never assigned",
+1704,,,"Number never assigned",
+1705,,,"Number never assigned",
+1706,,,"Number never assigned",
+1707,,,"Number never assigned",
+1708,,,"Number never assigned",
+1709,,,"Number never assigned",
+1710,,,"Number never assigned",
+1711,,,"Number never assigned",
+1712,,,"Number never assigned",
+1713,,,"Number never assigned",
+1714,,,"Number never assigned",
+1715,,,"Number never assigned",
+1716,,,"Number never assigned",
+1717,,,"Number never assigned",
+1718,,,"Number never assigned",
+1719,,,"Number never assigned",
+1720,,,"Number never assigned",
+1721,,,"Number never assigned",
+1722,,,"Number never assigned",
+1723,,,"Number never assigned",
+1724,,,"Number never assigned",
+1725,,,"Number never assigned",
+1726,,,"Number never assigned",
+1727,,,"Number never assigned",
+1728,,,"Number never assigned",
+1729,,,"Number never assigned",
+1730,,,"Number never assigned",
+1731,,,"Number never assigned",
+1732,,,"Number never assigned",
+1733,,,"Number never assigned",
+1734,,,"Number never assigned",
+1735,,,"Number never assigned",
+1736,,,"Number never assigned",
+1737,,,"Number never assigned",
+1738,,,"Number never assigned",
+1739,,,"Number never assigned",
+1740,,,"Number never assigned",
+1741,,,"Number never assigned",
+1742,,,"Number never assigned",
+1743,,,"Number never assigned",
+1744,,,"Number never assigned",
+1745,,,"Number never assigned",
+1746,,,"Number never assigned",
+1747,,,"Number never assigned",
+1748,,,"Number never assigned",
+1749,,,"Number never assigned",
+1750,,,"Number never assigned",
+1751,,,"Number never assigned",
+1752,,,"Number never assigned",
+1753,,,"Number never assigned",
+1754,,,"Number never assigned",
+1755,,,"Number never assigned",
+1756,,,"Number never assigned",
+1757,,,"Number never assigned",
+1758,,,"Number never assigned",
+1759,,,"Number never assigned",
+1760,,,"Number never assigned",
+1761,,,"Number never assigned",
+1762,,,"Number never assigned",
+1763,,,"Number never assigned",
+1764,,,"Number never assigned",
+1765,,,"Number never assigned",
+1766,,,"Number never assigned",
+1767,,,"Number never assigned",
+1768,,,"Number never assigned",
+1769,,,"Number never assigned",
+1770,,,"Number never assigned",
+1771,,,"Number never assigned",
+1772,,,"Number never assigned",
+1773,,,"Number never assigned",
+1774,,,"Number never assigned",
+1775,,,"Number never assigned",
+1776,,,"Number never assigned",
+1777,,,"Number never assigned",
+1778,,,"Number never assigned",
+1779,,,"Number never assigned",
+1780,,,"Number never assigned",
+1781,,,"Number never assigned",
+1782,,,"Number never assigned",
+1783,,,"Number never assigned",
+1784,,,"Number never assigned",
+1785,,,"Number never assigned",
+1786,,,"Number never assigned",
+1787,,,"Number never assigned",
+1788,,,"Number never assigned",
+1789,,,"Number never assigned",
+1790,,,"Number never assigned",
+1791,,,"Number never assigned",
+1792,,,"Number never assigned",
+1793,,,"Number never assigned",
+1794,,,"Number never assigned",
+1795,,,"Number never assigned",
+1796,,,"Number never assigned",
+1797,,,"Number never assigned",
+1798,,,"Number never assigned",
+1799,,,"Number never assigned",
+1800,,,"Number never assigned",
+1801,,,"Number never assigned",
+1802,,,"Number never assigned",
+1803,,,"Number never assigned",
+1804,,,"Number never assigned",
+1805,,,"Number never assigned",
+1806,,,"Number never assigned",
+1807,,,"Number never assigned",
+1808,,,"Number never assigned",
+1809,,,"Number never assigned",
+1810,,,"Number never assigned",
+1811,,,"Number never assigned",
+1812,,,"Number never assigned",
+1813,,,"Number never assigned",
+1814,,,"Number never assigned",
+1815,,,"Number never assigned",
+1816,,,"Number never assigned",
+1817,,,"Number never assigned",
+1818,,,"Number never assigned",
+1819,,,"Number never assigned",
+1820,,,"Number never assigned",
+1821,,,"Number never assigned",
+1822,,,"Number never assigned",
+1823,,,"Number never assigned",
+1824,,,"Number never assigned",
+1825,,,"Number never assigned",
+1826,,,"Number never assigned",
+1827,,,"Number never assigned",
+1828,,,"Number never assigned",
+1829,,,"Number never assigned",
+1830,,,"Number never assigned",
+1831,,,"Number never assigned",
+1832,,,"Number never assigned",
+1833,,,"Number never assigned",
+1834,,,"Number never assigned",
+1835,,,"Number never assigned",
+1836,,,"Number never assigned",
+1837,,,"Number never assigned",
+1838,,,"Number never assigned",
+1839,,,"Number never assigned",
+1840,,,"Number never assigned",
+1841,,,"Number never assigned",
+1842,,,"Number never assigned",
+1843,,,"Number never assigned",
+1844,,,"Number never assigned",
+1845,,,"Number never assigned",
+1846,,,"Number never assigned",
+1847,,,"Number never assigned",
+1848,,,"Number never assigned",
+1849,,,"Number never assigned",
+1850,,,"Number never assigned",
+1851,,,"Number never assigned",
+1852,,,"Number never assigned",
+1853,,,"Number never assigned",
+1854,,,"Number never assigned",
+1855,,,"Number never assigned",
+1856,,,"Number never assigned",
+1857,,,"Number never assigned",
+1858,,,"Number never assigned",
+1859,,,"Number never assigned",
+1860,,,"Number never assigned",
+1861,,,"Number never assigned",
+1862,,,"Number never assigned",
+1863,,,"Number never assigned",
+1864,,,"Number never assigned",
+1865,,,"Number never assigned",
+1866,,,"Number never assigned",
+1867,,,"Number never assigned",
+1868,,,"Number never assigned",
+1869,,,"Number never assigned",
+1870,,,"Number never assigned",
+1871,,,"Number never assigned",
+1872,,,"Number never assigned",
+1873,,,"Number never assigned",
+1874,,,"Number never assigned",
+1875,,,"Number never assigned",
+1876,,,"Number never assigned",
+1877,,,"Number never assigned",
+1878,,,"Number never assigned",
+1879,,,"Number never assigned",
+1880,,,"Number never assigned",
+1881,,,"Number never assigned",
+1882,,,"Number never assigned",
+1883,,,"Number never assigned",
+1884,,,"Number never assigned",
+1885,,,"Number never assigned",
+1886,,,"Number never assigned",
+1887,,,"Number never assigned",
+1888,,,"Number never assigned",
+1889,,,"Number never assigned",
+1890,,,"Number never assigned",
+1891,,,"Number never assigned",
+1892,,,"Number never assigned",
+1893,,,"Number never assigned",
+1894,,,"Number never assigned",
+1895,,,"Number never assigned",
+1896,,,"Number never assigned",
+1897,,,"Number never assigned",
+1898,,,"Number never assigned",
+1899,,,"Number never assigned",
+1900,,,"Number never assigned",
+1901,,,"Number never assigned",
+1902,,,"Number never assigned",
+1903,,,"Number never assigned",
+1904,,,"Number never assigned",
+1905,,,"Number never assigned",
+1906,,,"Number never assigned",
+1907,,,"Number never assigned",
+1908,,,"Number never assigned",
+1909,,,"Number never assigned",
+1910,,,"Number never assigned",
+1911,,,"Number never assigned",
+1912,,,"Number never assigned",
+1913,,,"Number never assigned",
+1914,,,"Number never assigned",
+1915,,,"Number never assigned",
+1916,,,"Number never assigned",
+1917,,,"Number never assigned",
+1918,,,"Number never assigned",
+1919,,,"Number never assigned",
+1920,,,"Number never assigned",
+1921,,,"Number never assigned",
+1922,,,"Number never assigned",
+1923,,,"Number never assigned",
+1924,,,"Number never assigned",
+1925,,,"Number never assigned",
+1926,,,"Number never assigned",
+1927,,,"Number never assigned",
+1928,,,"Number never assigned",
+1929,,,"Number never assigned",
+1930,,,"Number never assigned",
+1931,,,"Number never assigned",
+1932,,,"Number never assigned",
+1933,,,"Number never assigned",
+1934,,,"Number never assigned",
+1935,,,"Number never assigned",
+1936,,,"Number never assigned",
+1937,,,"Number never assigned",
+1938,,,"Number never assigned",
+1939,,,"Number never assigned",
+1940,,,"Number never assigned",
+1941,,,"Number never assigned",
+1942,,,"Number never assigned",
+1943,,,"Number never assigned",
+1944,,,"Number never assigned",
+1945,,,"Number never assigned",
+1946,,,"Number never assigned",
+1947,,,"Number never assigned",
+1948,,,"Number never assigned",
+1949,,,"Number never assigned",
+1950,,,"Number never assigned",
+1951,,,"Number never assigned",
+1952,,,"Number never assigned",
+1953,,,"Number never assigned",
+1954,,,"Number never assigned",
+1955,,,"Number never assigned",
+1956,,,"Number never assigned",
+1957,,,"Number never assigned",
+1958,,,"Number never assigned",
+1959,,,"Number never assigned",
+1960,,,"Number never assigned",
+1961,,,"Number never assigned",
+1962,,,"Number never assigned",
+1963,,,"Number never assigned",
+1964,,,"Number never assigned",
+1965,,,"Number never assigned",
+1966,,,"Number never assigned",
+1967,,,"Number never assigned",
+1968,,,"Number never assigned",
+1969,,,"Number never assigned",
+1970,,,"Number never assigned",
+1971,,,"Number never assigned",
+1972,,,"Number never assigned",
+1973,,,"Number never assigned",
+1974,,,"Number never assigned",
+1975,,,"Number never assigned",
+1976,,,"Number never assigned",
+1977,,,"Number never assigned",
+1978,,,"Number never assigned",
+1979,,,"Number never assigned",
+1980,,,"Number never assigned",
+1981,,,"Number never assigned",
+1982,,,"Number never assigned",
+1983,,,"Number never assigned",
+1984,,,"Number never assigned",
+1985,,,"Number never assigned",
+1986,,,"Number never assigned",
+1987,,,"Number never assigned",
+1988,,,"Number never assigned",
+1989,,,"Number never assigned",
+1990,,,"Number never assigned",
+1991,,,"Number never assigned",
+1992,,,"Number never assigned",
+1993,,,"Number never assigned",
+1994,,,"Number never assigned",
+1995,,,"Number never assigned",
+1996,,,"Number never assigned",
+1997,,,"Number never assigned",
+1998,,,"Number never assigned",
+1999,,,"Number never assigned",
+2000,98,,,"B2.5"
+2001,98,,,"B2.5"
+2002,98,,,"B2.5"
+2003,98,,,"B2.5"
+2004,98,,,"B2.5"
+2005,98,,,"B2.5"
+2006,90,,,"B2.5"
+2007,98,,,"B2.5"
+2008,98,,,"B2.5"
+2009,90,,,"B2.5"
+2010,30,,"Wall, aligned NNE/SSW","B2.6"
+2011,30,"+","Trench either Foundation or Robber","B2.6"
+2012,30,,"Wall foundation","B2.6"
+2013,30,6,"Gully aligned W/E","B2.6"
+2014,30,"8,10,11,15-6","Small informal hearth/pit","B2.6"
+2015,30,9,"Beam slot aligned NE/SW","B2.6"
+2016,30,9,"Posthole","B2.6"
+2017,30,9,"Posthole","B2.6"
+2018,30,9,"Posthole","B2.6"
+2019,30,"13-4","pit","B2.6"
+2020,30,"23, 64-67","pit","B2.6"
+2021,30,24,"Posthole","B2.6"
+2022,30,"34, 43","latrine pit","B2.6"
+2023,30,44,"Posthole","B2.6"
+2024,30,42,"Beam slot aligned WNW/ESE","B2.6"
+2025,30,45,"Ditch aligned N/S","B2.6"
+2026,30,47,"Gully/slot","B2.6"
+2027,30,48,"Gully/slot","B2.6"
+2028,30,49,"Slot aligned W/E","B2.6"
+2029,30,50,"Stakehole","B2.6"
+2030,30,69,"Slot aligned W/E","B2.6"
+2031,30,52,"slot aligned NNE/SSW","B2.6"
+2032,30,"38, 53","slot aligned WNW/ESE","B2.6"
+2033,30,51,"slot aligned WNW/ESE","B2.6"
+2034,30,54,"slot aligned NNE/SSW","B2.6"
+2035,30,56,"slot aligned Ne/sw","B2.6"
+2036,30,57,"slot [end]","B2.6"
+2037,30,58,"slot aligned wnw/ese","B2.6"
+2038,30,"32,37","Slot aligned NW/SE","B2.6"
+2039,30,33,"Posthole","B2.6"
+2040,30,55,"Trench ? Foundation trench for piscina","B2.6"
+2041,30,31,"Posthole","B2.6"
+2042,30,"29,30","Posthole","B2.6"
+2043,30,28,"Posthole/Stakehole","B2.6"
+2044,30,70,"Posthole","B2.6"
+2045,30,71,"Posthole","B2.6"
+2046,30,59,"Posthole","B2.6"
+2047,30,60,"Posthole","B2.6"
+2048,30,61,"Posthole","B2.6"
+2049,9,24,"informal hearth/pit","B2.6"
+2050,9,25,"informal hearth/pit","B2.6"
+2051,9,26,"informal hearth/pit","B2.6"
+2052,4,38,"Posthole","B2.6"
+2053,4,"36, 40, 45, 60","Slot aligned N/S","B2.6"
+2054,4,"39, 46, 51","Slot aligned W/E","B2.6"
+2055,4,49,"Posthole","B2.6"
+2056,5,50,"slot aligned N/S","B2.6"
+2057,4,53,"pit","B2.6"
+2058,4,"35, 52","pit","B2.6"
+2059,4,41,"Posthole","B2.6"
+2060,4,42,"Posthole","B2.6"
+2061,4,54,"slot aligned N/S","B2.6"
+2062,4,55,"Posthole","B2.6"
+2063,4,56,"Posthole","B2.6"
+2064,4,29,"pit","B2.6"
+2065,4,30,"pit","B2.6"
+2066,4,31,"pit","B2.6"
+2067,4,57,"slot aligned  WNW/ESE","B2.6"
+2068,4,58,"Posthole","B2.6"
+2069,4,59,"Posthole","B2.6"
+2070,6,58,"Slot aligned W/E","B2.6"
+2071,6,56,"Slot aligned W/E","B2.6"
+2072,6,55,"Posthole","B2.6"
+2073,6,57,"Posthole","B2.6"
+2074,30,,"Posthole/ stakehole [void]","B2.6"
+2075,90,259,"Gate post hole","B2.6"
+2076,90,260,"Gate post hole","B2.6"
+2077,90,243,"Gate post hole","B2.6"
+2078,30,46,"Posthole","B2.6"
+2079,90,220,"slot?","B2.6"
+2080,10,"1+a","Victorian ? Robber pit","B2.6"
+2081,10,"1+b","Robber pit [earlier than the above]","B2.6"
+2082,10,3,"Channel/gully aligned n/s","B2.6"
+2083,10,"1+b","Possible posthole","B2.6"
+2084,10,"1+b","Possible posthole","B2.6"
+2085,10,19,"Posthole to west of latrine pit","B2.6"
+2086,10,21,"Posthole part of construction of wooden structure over latrine","B2.6"
+2087,10,22,"Posthole part of construction of wooden structure over latrine","B2.6"
+2088,10,23,"Posthole part of construction of wooden structure over latrine","B2.6"
+2089,10,15,"Concrete foundations of piscina","B2.6"
+2090,98,"197, 218","Road ditch","B2.6"
+2091,9,1,"Robber trench","B2.6"
+2092,9,2,"Cut of drain pipe trench","B2.6"
+2093,9,,"Stone 'lining'/top of drain pipe","B2.6"
+2094,9,32,"Posthole","B2.6"
+2095,9,4,"Pit","B2.6"
+2096,9,11,"Wall aligned N/S","B2.6"
+2097,9,15,"Wall aligned N/S","B2.6"
+2098,9,33,"Slot aligned NNE/SSW","B2.6"
+2099,9,35,"Stakehole","B2.6"
+2100,9,36,"Stakehole","B2.6"
+2101,9,37,"Stakehole","B2.6"
+2102,9,,"Posthole/Stakehole","B2.6"
+2103,9,38,"Posthole","B2.6"
+2104,9,39,"Posthole","B2.6"
+2105,9,40,"Posthole","B2.6"
+2106,9,41,"Posthole","B2.6"
+2107,9,42,"Posthole","B2.6"
+2108,9,43,"Posthole","B2.6"
+2109,9,44,"Posthole","B2.6"
+2110,9,45,"Stakehole","B2.6"
+2111,9,46,"Stakehole","B2.6"
+2112,9,47,"Stakehole","B2.6"
+2113,9,48,"Stakehole","B2.6"
+2114,9,49,"Stakehole","B2.6"
+2115,2,"45/21","Small pit","B2.6"
+2116,2,"Void","Posthole","B2.6"
+2117,2,"26,27,27a","Construction trench fro wall F2118/2119","B2.6"
+2118,2,"None","Wall aligned WNW/ESE","B2.6"
+2119,2,"None","Offset wall aligned WNW/ESE","B2.6"
+2120,2,"None","Wall foundations","B2.6"
+2121,2,29,"Gully aligned WNW/ESE","B2.6"
+2122,2,"30,37,39,42","Trench aligned WNW/ESE","B2.6"
+2123,2,63,"? Informal hearth ?","B2.6"
+2124,2,64,"Posthole","B2.6"
+2125,2,65,"Posthole","B2.6"
+2126,2,66,"Posthole","B2.6"
+2127,2,33,"Slot aligned WNW/ESE","B2.6"
+2128,2,33,"Slot aligned WNW/ESE","B2.6"
+2129,2,61,"Beam slot aligned WNW/ESE","B2.6"
+2130,2,"59a","[Possible] posthole - in baulk between 2 & 3 or old box 3","B2.6"
+2131,2,"59b","[Possible] posthole  - in baulk between 2 & 3 or old box 3","B2.6"
+2132,2,49,"[Possible] slot, gully, trench aligned roughly E/W  - in baulk between 2 & 3 or old box 3","B2.6"
+2133,1,"+c","Modern trench? Robber trench","B2.6"
+2134,1,"+a","Modern trench Ministry of works 1956","B2.6"
+2135,1,,"Wall aligned NNE-SSW","B2.6"
+2136,1,,"Wall aligned NNE-SSW","B2.6"
+2137,1,"23-6, 44, 54","Construction trench aligned WNW/ESE","B2.6"
+2138,1,"34-5, 35a. 58","Curving gully","B2.6"
+2139,1,"33,37,41,57","Trench / slot aligned WNW/ESE","B2.6"
+2140,1,,"Wall aligned WNW/ESE","B2.6"
+2141,1,,"Wall offset aligned WNW/ESE","B2.6"
+2142,1,26,"wall foundation aligned WNW/ESE","B2.6"
+2143,1,53,"Slot","B2.6"
+2144,1,22,"Construction trench aligned NNE/SSW","B2.6"
+2145,1,61,"trench","B2.6"
+2146,1,62,"Stakehole","B2.6"
+2147,1,63,"slot/end of clay wall ??","B2.6"
+2148,1,64,"Stakehole","B2.6"
+2149,1,65,"Stakehole","B2.6"
+2150,1,66,"possible post hole","B2.6"
+2151,1,67,"possible post hole","B2.6"
+2152,1,68,"possible post hole","B2.6"
+2153,1,69,"possible post hole","B2.6"
+2154,3,"4?","small pit","B2.6"
+2155,3,"4?","small pit","B2.6"
+2156,3,"4?","small pit","B2.6"
+2157,3,"5?","shallow curving trench","B2.6"
+2158,3,"5?","posthole","B2.6"
+2159,3,"13,19","Construction trench aligned NNE/SSW","B2.6"
+2160,3,,"wall aligned WNW/ESE","B2.6"
+2161,3,,"Wall aligned NNE/SSW","B2.6"
+2162,3,"18, 29","Construction trench aligned WNWW/ESE","B2.6"
+2163,3,,"Wall foundations  aligned WNW/ESE","B2.6"
+2164,3,,"Wall foundations NNE/SSW","B2.6"
+2165,3,29,"Construction trench","B2.6"
+2166,3,,"Wall","B2.6"
+2167,4,3,"Ministry of works trench","B2.6"
+2168,4,5,"Small pit","B2.6"
+2169,4,"9,14","Construction trench for wall","B2.6"
+2170,4,11,"small pit, western edge of box","B2.6"
+2171,4,75,"Construction trench for wall","B2.6"
+2172,4,76,"Small pit/post hole (scaffolding ph?)","B2.6"
+2173,4,15,"Small pit/post hole (scaffolding ph?)","B2.6"
+2174,4,20,"Small pit/post hole (scaffolding ph?)","B2.6"
+2175,4,,"irregularly-shaped pit","B2.6"
+2176,4,,"gully ?","B2.6"
+2177,4,,"Wall","B2.6"
+2178,4,,"offset Wall","B2.6"
+2179,4,63,"Wall footings","B2.6"
+2180,4,"+","Wall foundations","B2.6"
+2181,5,6,"Beam slot ??","B2.6"
+2182,5,"8/23","Construction trench","B2.6"
+2183,5,13,"gully","B2.6"
+2184,5,18,"small pit","B2.6"
+2185,5,19,"posthole","B2.6"
+2186,5,20,"Beam slot?","B2.6"
+2187,5,22,"Beam slot  ?","B2.6"
+2188,5,"24,25","Ministry of works trench","B2.6"
+2189,5,27,"Beam slot? Possibly the same as 2192","B2.6"
+2190,5,29,"Beam slot ?","B2.6"
+2191,5,39,"? Pit/posthole","B2.6"
+2192,5,44,"Beam slot ? Possibly the same as 2189","B2.6"
+2193,5,,"Wall","B2.6"
+2194,5,,"Wall footings","B2.6"
+2195,5,,"Wall","B2.6"
+2196,6,38,"Pit","B2.6"
+2197,6,"40, 41,41a,47,51,52","Pit","B2.6"
+2198,6,"44-46","Pit","B2.6"
+2199,6,"48,49,39","Pit","B2.6"
+2200,6,50,"Pit","B2.6"
+2201,6,"43,43a","Pit","B2.6"
+2202,6,59,"post hole","B2.6"
+2203,6,62,"post hole","B2.6"
+2204,6,"61, 63-63","beam slot ? Same as F2199","B2.6"
+2205,6,"69-70","Pit ? Same as F2196","B2.6"
+2206,6,71,"Pit","B2.6"
+2207,6,72,"Pit","B2.6"
+2208,6,73,"Pit","B2.6"
+2209,6,74,"beam slot Same as F2067","B2.6"
+2210,6,77,"beam slot Same as F2056","B2.6"
+2211,6,1,"MODERN TRENCH","B2.6"
+2212,6,6,"beam slot /trench","B2.6"
+2213,6,"7,8,9,10,11,12","construction trench","B2.6"
+2214,6,,"wall","B2.6"
+2215,6,10,"wall foundations","B2.6"
+2216,6,,"sleeper beam","B2.6"
+2217,6,,"post hole","B2.6"
+2218,6,,"post hole","B2.6"
+2219,6,79,"sleeper trench","B2.6"
+2220,4,"void","shuttering around concrete floor","B2.6"
+2221,4,28,"beam slot Same as","B2.6"
+2222,9,52,"?stakehole","B2.6"
+2223,9,53,"?stakehole","B2.6"
+2224,9,54,"?stakehole","B2.6"
+2225,12,"+c,9","modern pit/trench","B2.6"
+2226,12,"26/2, 52-6, 11/23","Pit/trench, Robber trench of piscina","B2.6"
+2227,12,"12/21","Posthole","B2.6"
+2228,12,41,"Pit","B2.6"
+2229,12,"37-40","Pit same as F2268","B2.6"
+2230,12,36,"Beam slot","B2.6"
+2231,12,34,"Beam slot ?","B2.6"
+2232,12,"36a","Beam slot","B2.6"
+2233,12,41,"Pit/posthole","B2.6"
+2234,12,43,"Pit/posthole","B2.6"
+2235,12,58,"Stakehole","B2.6"
+2236,12,59,"Pit","B2.6"
+2237,12,57,"Concrete foundation of piscina","B2.6"
+2238,11,"11, 11a-d, 13, 13a","19th century robber trench","B2.6"
+2239,11,"12, 12a-h","Robber trench","B2.6"
+2240,11,7,"Construction Trench","B2.6"
+2241,11,19,"Foundations of piscina","B2.6"
+2242,11,20,"Flagstone floor of piscina","B2.6"
+2243,11,"21-4","Remains of wall of piscina","B2.6"
+2244,14,"20+a","Posthole","B2.6"
+2245,14,"31a","Posthole","B2.6"
+2246,14,32,"Pit","B2.6"
+2247,14,50,"Beam slot","B2.6"
+2248,14,48,"Pit","B2.6"
+2249,14,49,"Beam slot, also fills 67/7 and 24/39","B2.6"
+2250,7,"+c","Modern trench","B2.6"
+2251,7,"5a","Small pit","B2.6"
+2252,7,"8a","Trench","B2.6"
+2253,7,"8b","Pit","B2.6"
+2254,7,"8c","Trench/pit","B2.6"
+2255,14,34,"Construction trench","B2.6"
+2256,14,,"West Wall of Caldarium","B2.6"
+2257,14,,"Offset wall of Caldarium","B2.6"
+2258,14,,"Wall foundations","B2.6"
+2259,14,35,"Pit - inspection pit","B2.6"
+2260,14,42,"Pit","B2.6"
+2261,14,43,"Pit","B2.6"
+2262,14,44,"Slot","B2.6"
+2263,13,"+a","C19th excavation  trench","B2.6"
+2264,13,"6a","Trench/posthole ?","B2.6"
+2265,13,25,"Gully/slot","B2.6"
+2266,13,"18, 28","Gully/slot","B2.6"
+2267,13,26,"Pit","B2.6"
+2268,13,24,"Pit same as F2229","B2.6"
+2269,13,22,"Posthole","B2.6"
+2270,13,23,"Pit?","B2.6"
+2271,13,27,"Pit in NE corner","B2.6"
+2272,13,19,"Modern test hole 1965","B2.6"
+2273,7,,"Wall","B2.6"
+2274,7,"12/21, 22","Trench/pit? Robbing?","B2.6"
+2275,7,51,"Pit  Pit I","B2.6"
+2276,7,44,"Pit  Pit II","B2.6"
+2277,7,50,"Pit  Pit III","B2.6"
+2278,7,36,"Beam slot","B2.6"
+2279,7,"36a","Posthole","B2.6"
+2280,7,38,"Pit  Pit IV","B2.6"
+2281,7,43,"Pit  Pit V","B2.6"
+2282,7,40,"Slot","B2.6"
+2283,7,39,"Pit  Pit VI","B2.6"
+2284,7,59,"Pit","B2.6"
+2285,7,62,"Pit","B2.6"
+2286,7,63,"Pit","B2.6"
+2287,63,"7-8, 10, 15, 18-23","Pit to east of piscina","B2.6"
+2288,63,"12, 13","Pit","B2.6"
+2289,39,20,"Beam slot (F2303)","B2.6"
+2290,39,21,"Pit","B2.6"
+2291,39,22,"Pit","B2.6"
+2292,39,"23/28","Beam slot","B2.6"
+2293,39,"26-7","Pit","B2.6"
+2294,12,28,"Hearth (laid floor tiles)","B2.6"
+2295,33,"+L","19th excavation","B2.6"
+2296,33,"I","Robber trench","B2.6"
+2297,39,"I","Modern Trench","B2.6"
+2298,39,"6a","Small Pit","B2.6"
+2299,39,"10, 13","Pit","B2.6"
+2300,39,"11,15","Pit","B2.6"
+2301,39,12,"Pit","B2.6"
+2302,39,16,"Slot","B2.6"
+2303,39,"17-8","Slot F2289","B2.6"
+2304,39,"14a","Posthole","B2.6"
+2305,39,"14b","Posthole","B2.6"
+2306,39,"14c","Posthole","B2.6"
+2307,39,30,"Slot","B2.6"
+2308,39,31,"Posthole","B2.6"
+2309,39,32,"Posthole","B2.6"
+2310,,,"Not assigned","B2.6"
+2311,34,12,"Beam slot","B2.6"
+2312,34,"29, 30, 37, 42, 48","Beam slot","B2.6"
+2313,34,21,"Pit","B2.6"
+2314,34,"23, 31","Pit","B2.6"
+2315,34,25,"Posthole/stakehole","B2.6"
+2316,34,26,"Posthole/stakehole","B2.6"
+2317,34,27,"Posthole/stakehole","B2.6"
+2318,34,"32-3","Pit","B2.6"
+2319,34,"35, 44","Beam slot E/W","B2.7"
+2320,34,"35a","Posthole","B2.7"
+2321,34,"38, 42","Pit","B2.7"
+2322,34,"39, 45","Pit","B2.7"
+2323,34,40,"Posthole","B2.7"
+2324,34,43,"Small pit","B2.7"
+2325,34,47,"Curving gully","B2.7"
+2326,34,46,"Post pit","B2.7"
+2327,34,"46a","Posthole","B2.7"
+2328,34,"46b","Posthole","B2.7"
+2329,35,"3a","Small pit","B2.7"
+2330,35,6,"Possibly hearth","B2.7"
+2331,35,16,"Post pit","B2.7"
+2332,35,"16a","Posthole","B2.7"
+2333,35,29,"Beam slot W/E","B2.7"
+2334,35,"45, 47","Pit","B2.7"
+2335,35,"53, 63, 64, 65","Pit","B2.7"
+2336,35,54,"Beam slot W/E","B2.7"
+2337,35,55,"Posthole","B2.7"
+2338,35,56,"Posthole","B2.7"
+2339,35,57,"Posthole","B2.7"
+2340,35,58,"Posthole","B2.7"
+2341,35,"67a","Possible posthole","B2.7"
+2342,35,"66a","Posthole","B2.7"
+2343,35,27,"Pit","B2.7"
+2344,35,"27a","Posthole","B2.7"
+2345,34,"+d","Posthole","B2.7"
+2346,41,"+A +B","Modern trench W/E","B2.7"
+2347,41,"+C","(Modern?) trench N/S","B2.7"
+2348,41,"+C, 25b","(Modern?) trench N/S ? Robber","B2.7"
+2349,41,8,"Beam slot","B2.7"

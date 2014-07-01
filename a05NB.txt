@@ -1,0 +1,1 @@
+Consider making a master Applescript to run all of these in order, and packaging as application.
